@@ -1,0 +1,4104 @@
+# Translation of Themes - OceanWP in Hebrew
+# This file is distributed under the same license as the Themes - OceanWP package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-12 19:05:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: Themes - OceanWP\n"
+
+#. #-#-#-#-#  oceanwp.pot (OceanWP 1.4.16)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/helpers.php:3312
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#: inc/customizer/settings/header.php:1396
+msgid "This field is to control the width where you want to collapse the header."
+msgstr "השדה הזה נועד לקבוע האם ברצונך לקפל את ראש האתר האנכי."
+
+#: inc/customizer/settings/header.php:1395
+msgid "Collapse Width (px)"
+msgstr "רוחב קיפול ראש אתר אנכי (px)"
+
+#: inc/woocommerce/woocommerce-config.php:1278
+msgid "WooCommerce Product Price"
+msgstr "מחיר מוצר WooCommerce"
+
+#: inc/customizer/settings/woocommerce.php:888
+msgid "Pagination Style"
+msgstr "סגנון עימוד"
+
+#: inc/customizer/settings/blog.php:932
+msgid "Enter the max width your the content with the full width layout. Add 0 to disable the max width."
+msgstr "ניתן להזין את הרוחב המקסימלי של התוכן בפריסת רוחב עמוד מלא. ניתן להזין 0 כדי לבטל את הרוחב המקסימלי."
+
+#: inc/customizer/settings/blog.php:931
+msgid "Full Width Content"
+msgstr "תוכן רוחב מלא"
+
+#: inc/customizer/settings/topbar.php:335
+msgid "Place your content here"
+msgstr "ניתן לשים כאן את התוכן שלך"
+
+#: inc/customizer/settings/header.php:2153
+msgid "Choose a template created in Theme Panel > My Library to replace the navigation."
+msgstr "ניתן לבחור תבנית עמוד אשר נוצרה ב-\"פאנל התבנית > הספריה שלי\" כדי להחליף את תפריט הניווט הראשי."
+
+#: inc/customizer/settings/header.php:2026
+msgid "Select a retina logo twice the normal logo size."
+msgstr "מומלץ להעלות לוגו Retina אשר הוא בדיוק פי 2, או פי 3, מגודל הלוגו הרגיל."
+
+#: inc/customizer/settings/header.php:504
+msgid "Select a custom retina logo (twice the logo size) when the menu is opened."
+msgstr "יש לבחור לוגו Retina מותאם אישית (כפליים גודל הלוגו הרגיל) כאשר תפריט הניווט פתוח."
+
+#: inc/walker/menu-walker.php:222
+msgid "Latest in"
+msgstr "לאחרונה ב"
+
+#: functions.php:535
+msgid "Widgets in this area are used in the right sidebar region."
+msgstr "ווידג'טים באיזור זה עושים שימוש באיזור הסרגל הצדדי הימני."
+
+#: inc/woocommerce/woocommerce-config.php:1288
+msgid "WooCommerce Product Add To Cart"
+msgstr "מוצר WooCommerce: הוספה לעגלת הקניות"
+
+#: inc/customizer/settings/woocommerce.php:1997
+msgid "Add To Cart Border: Radius"
+msgstr "הוספה לעגלת הקניות: עיגול פינות מסגרת"
+
+#: inc/customizer/settings/woocommerce.php:1981
+msgid "Add a custom border size. px - em - %."
+msgstr "הוספת גודל מסגרת מותאם אישית: px - em - %"
+
+#: inc/customizer/settings/woocommerce.php:1980
+msgid "Add To Cart Border: Size"
+msgstr "הוספה לעגלת הקניות: גודל מסגרת"
+
+#: inc/customizer/settings/woocommerce.php:1967
+msgid "Dotted"
+msgstr "מסגרת מנוקדת"
+
+#: inc/customizer/settings/woocommerce.php:1966
+msgid "Dashed"
+msgstr "מסגרת מקווקוות"
+
+#: inc/customizer/settings/woocommerce.php:1965
+msgid "Double"
+msgstr "מסגרת כפולה"
+
+#: inc/customizer/settings/woocommerce.php:1964
+msgid "Solid"
+msgstr "מסגרת אחידה"
+
+#: inc/customizer/settings/woocommerce.php:1957
+msgid "Add To Cart Border: Style"
+msgstr "הוספה לעגלת הקניות: סגנון מסגרת"
+
+#: inc/customizer/settings/woocommerce.php:1877
+msgid "Add To Cart Background Color: Hover"
+msgstr "הוספה לעגלת הקניות: צבע רקע, במעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:1862
+msgid "Add To Cart Background Color"
+msgstr "הוספה לעגלת הקניות: צבע רקע"
+
+#: inc/customizer/settings/woocommerce.php:1848
+msgid "Product Entry: Add To Cart"
+msgstr "רשומת מוצר: הוספה לעגלת הקניות"
+
+#: inc/customizer/settings/header.php:3978
+msgid "Select Your Menu"
+msgstr "נא לבחור תפריט ניווט"
+
+#: inc/customizer/settings/header.php:3361
+msgid "Enter a max height for your responsive logo."
+msgstr "נא להזין את הגובה המקסימלי עבור הלוגו הרספונסיבי שלך."
+
+#: inc/customizer/settings/header.php:3360
+msgid "Logo Max Height (px)"
+msgstr "לוגו: גובה מקסימלי (px)"
+
+#: inc/customizer/settings/header.php:3345
+msgid "Select a custom responsive logo for tablet and mobile."
+msgstr "ניתן לבחור לוגו רספונסיבי מותאם אישית לטבלט ומובייל."
+
+#: inc/customizer/settings/header.php:3245
+msgid "Social Hover: Color"
+msgstr "אייקונים חברתיים: צבע, במעבר עכבר"
+
+#: inc/customizer/settings/header.php:3229
+msgid "Social: Color"
+msgstr "אייקונים חברתיים: צבע"
+
+#: inc/customizer/settings/header.php:3213
+msgid "Social Hover: Background Color"
+msgstr "אייקונים חברתיים: צבע רקע, במעבר עכבר"
+
+#: inc/customizer/settings/header.php:3197
+msgid "Social: Background Color"
+msgstr "אייקונים חברתיים: צבע רקע"
+
+#: inc/customizer/settings/header.php:3151
+msgid "Margin (px)"
+msgstr "שוליים חיצוניים (px)"
+
+#: inc/customizer/settings/header.php:2934
+msgid "Enable Social Menu"
+msgstr "הפעלת תפריט ניווט צדדי של אייקונים חברתיים"
+
+#: inc/customizer/settings/header.php:2920
+msgid "Social Menu"
+msgstr "תפריט ניווט צדדי של אייקונים חברתיים"
+
+#: inc/customizer/settings/header.php:1877
+msgid "Button Color: Hover"
+msgstr "צבע כפתור: מעבר עכבר"
+
+#: inc/customizer/settings/header.php:1758
+#: inc/customizer/settings/header.php:3179
+msgid "Border Radius"
+msgstr "עיגול פינות"
+
+#: inc/customizer/settings/header.php:1741
+#: inc/customizer/settings/header.php:1759
+#: inc/customizer/settings/header.php:3180
+#: inc/customizer/settings/woocommerce.php:1998
+msgid "Add a custom border radius. px - em - %."
+msgstr "הוספת עיגול פינות מסגרת בהתאמה אישית (px - em - %)"
+
+#: inc/customizer/settings/header.php:1740
+msgid "Border Width"
+msgstr "עובי מסגרת"
+
+#: inc/customizer/settings/header.php:1723
+msgid "Display Search Form"
+msgstr "הצגת טופס חיפוש"
+
+#: inc/customizer/settings/header.php:1693
+msgid "Sub Menu Links Background Color: Hover"
+msgstr "קישורים בתת-תפריט הניווט: צבע רקע, במעבר עכבר"
+
+#: inc/customizer/settings/header.php:1676
+msgid "Sub Menu Links Background Color"
+msgstr "קישורים בתת-תפריט הניווט: צבע רקע"
+
+#: inc/customizer/settings/header.php:1660
+msgid "Sub Menu Links Color: Hover"
+msgstr "קישורים בתת-תפריט הניווט: צבע, במעבר עכבר"
+
+#: inc/customizer/settings/header.php:1643
+msgid "Sub Menu Links Color"
+msgstr "צבע הקישורים בניווט המשנה"
+
+#: inc/customizer/settings/header.php:1626
+msgid "Sub Menu Background Color"
+msgstr "צבע רקע לניווט המשנה"
+
+#: inc/customizer/settings/header.php:1609
+msgid "Menu Items Border Color"
+msgstr "צבע מסגרת לפריטי תפריט הניווט"
+
+#: inc/customizer/settings/header.php:1566
+msgid "Menu Items Top/Bottom Padding (px)"
+msgstr "שוליים פנימיים (מעלה/מטה) לתפריט הניווט (px)"
+
+#: inc/customizer/settings/header.php:1544
+msgid "Logo Position"
+msgstr "מיקום לוגו"
+
+#: inc/customizer/settings/header.php:1489
+msgid "Inner Padding (px)"
+msgstr "שוליים פנימיים (px)"
+
+#: inc/customizer/settings/header.php:1378
+msgid "Used for the hamburger menu to open the header in small screens and if closed header."
+msgstr "עבור תפריט ההמבורגר כאשר ראש האתר נפתח במסכים קטנים, ועם ראש אתר מקופל."
+
+#: inc/customizer/settings/header.php:1377
+msgid "Custom Hamburger Button Color"
+msgstr "צבע מותאם אישית לכפתור ההמבורגר"
+
+#: inc/customizer/settings/header.php:1359
+msgid "Closed Header"
+msgstr "ראש אתר אנכי מקופל בתור ברירת מחדל"
+
+#: inc/customizer/settings/header.php:1341
+msgid "Add Header Shadow"
+msgstr "הוספת צל לראש האתר"
+
+#: inc/customizer/settings/header.php:1305
+msgid "Choose a template created in Theme Panel > My Library to add at the header bottom."
+msgstr "נא לבחור תבנית עמוד אשר נוצרה ב-\"פאנל התבנית > הספריה שלי\" כדי להוסיף לתחתית ראש העמוד האנכי."
+
+#: inc/customizer/settings/header.php:1304
+msgid "Select Bottom Template"
+msgstr "נא לבחור תבנית עמוד לתחתית ראש האתר האנכי"
+
+#: inc/customizer/settings/header.php:1286
+msgid "Choose a template created in Theme Panel > My Library to replace the header content."
+msgstr "ניתן לבחור תבנית עמוד אשר נוצרה ב-\"\"פאנל התבנית > הספריה שלי\" כדי להחליף את תוכן ראש האתר."
+
+#: inc/customizer/settings/header.php:1270
+msgid "Vertical Header Settings"
+msgstr "הגדרות ראש אתר אנכי"
+
+#: inc/customizer/settings/header.php:791
+msgid "Closer Spacing"
+msgstr "ריווח מצומצם"
+
+#: inc/customizer/settings/header.php:790
+msgid "Centered Menus"
+msgstr "תפריטים ממורכזים"
+
+#: inc/customizer/settings/header.php:789
+msgid "Wider Spacing"
+msgstr "ריווח רחב יותר"
+
+#: inc/customizer/settings/header.php:783
+msgid "Menus Position"
+msgstr "מיקום תפריטי הניווט"
+
+#: inc/customizer/settings/header.php:764
+msgid "Left Menu"
+msgstr "תפריט ניווט שמאלי"
+
+#: inc/customizer/settings/header.php:749
+msgid "Center Header Settings"
+msgstr "הגדרות ראש אתר ממורכז"
+
+#: inc/customizer/settings/header.php:503
+msgid "Retina Logo (optional)"
+msgstr "לוגו למסכי Retina (אופציונלי)"
+
+#: inc/customizer/settings/header.php:469
+#: inc/customizer/settings/header.php:805
+#: inc/customizer/settings/header.php:836
+#: inc/customizer/settings/header.php:1323
+msgid "Add Transparent Header"
+msgstr "הוספת ראש אתר שקוף"
+
+#: inc/customizer/settings/header.php:75
+msgid "Vertical"
+msgstr "אנכי"
+
+#: inc/customizer/settings/general.php:464
+msgid "Add a custom widgets padding. px - em - %."
+msgstr "הוספת שוליים פנימיים מותאמים אישית לווידג'טים: px - em - %."
+
+#: inc/customizer/settings/general.php:463
+msgid "Widgets Padding"
+msgstr "שוליים פנימיים של ווידג'טים"
+
+#: inc/customizer/settings/general.php:445
+msgid "Add a custom content padding. px - em - %."
+msgstr "הוספת שוליים פנימיים לתוכן: px - em - %"
+
+#: inc/customizer/settings/general.php:444
+msgid "Content Padding"
+msgstr "שוליים פנימיים לתוכן"
+
+#: inc/customizer/settings/general.php:339
+msgid "Separate"
+msgstr "נפרד"
+
+#: inc/customizer/settings/footer-widgets.php:115
+msgid "Add a parallax effect to your footer."
+msgstr "הוספת אפקט פרלקס לתחתית האתר."
+
+#: inc/customizer/settings/footer-widgets.php:114
+msgid "Parallax Footer Effect"
+msgstr "אפקט פרלקס לתחתית האתר"
+
+#: inc/customizer/settings/blog.php:746 inc/customizer/settings/general.php:949
+msgid "Title/Breadcrumb Position"
+msgstr "מיקום כותרת/פירורי לחם"
+
+#: inc/customizer/settings/blog.php:535
+#: inc/customizer/settings/woocommerce.php:944
+msgid "Infinite Scroll: Error Text"
+msgstr "גלילה אינסופית: טקסט עבור שגיאה"
+
+#: inc/customizer/settings/blog.php:529
+#: inc/customizer/settings/woocommerce.php:938 inc/helpers.php:3028
+#: inc/woocommerce/woocommerce-config.php:259
+msgid "No more pages to load"
+msgstr "הגעת לקצה; איו יותר פוסטים."
+
+#: inc/customizer/settings/blog.php:517
+#: inc/customizer/settings/woocommerce.php:926
+msgid "Infinite Scroll: Last Text"
+msgstr "גלילה אינסופית: טקסט עבור סוף הגלילה"
+
+#: inc/customizer/settings/blog.php:511
+#: inc/customizer/settings/woocommerce.php:920 inc/helpers.php:3023
+#: inc/woocommerce/woocommerce-config.php:254
+msgid "End of content"
+msgstr "סוף התוכן"
+
+#: inc/customizer/settings/blog.php:500
+#: inc/customizer/settings/woocommerce.php:909
+msgid "Infinite Scroll: Spinners Color"
+msgstr "גלילה אינסופית: צבע האייקון של טעינת פוסטים נוספים"
+
+#: inc/customizer/settings/blog.php:424
+msgid "Comments Hover Color"
+msgstr "צבע תגובות במעבר עכבר"
+
+#: inc/customizer/settings/blog.php:407
+msgid "Comments Color"
+msgstr "צבע תגובות"
+
+#: inc/customizer/settings/blog.php:390 inc/customizer/settings/blog.php:441
+msgid "Category Hover Color"
+msgstr "צבע קטגוריה, במעבר עכבר"
+
+#: inc/customizer/settings/blog.php:353
+msgid "Custom Image Height (px)"
+msgstr "גובה תמונה מותאם אישית (px)"
+
+#: inc/customizer/settings/blog.php:335
+msgid "Custom Image Width (px)"
+msgstr "רוחב תמונה מותאם אישית (px)"
+
+#: inc/customizer/settings/blog.php:315
+msgid "Vertical Position"
+msgstr "מיקום אנכי"
+
+#: inc/customizer/settings/blog.php:294
+msgid "Image Position"
+msgstr "מיקום תמונה"
+
+#: inc/customizer/settings/blog.php:158 inc/customizer/settings/blog.php:696
+#: inc/customizer/settings/general.php:897
+msgid "p"
+msgstr "p"
+
+#: inc/customizer/settings/blog.php:157 inc/customizer/settings/blog.php:695
+#: inc/customizer/settings/general.php:896
+msgid "span"
+msgstr "span"
+
+#: inc/customizer/settings/blog.php:156 inc/customizer/settings/blog.php:694
+#: inc/customizer/settings/general.php:895
+msgid "div"
+msgstr "div"
+
+#: inc/customizer/settings/blog.php:155 inc/customizer/settings/blog.php:693
+#: inc/customizer/settings/general.php:894
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/settings/blog.php:154 inc/customizer/settings/blog.php:692
+#: inc/customizer/settings/general.php:893
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/settings/blog.php:153 inc/customizer/settings/blog.php:691
+#: inc/customizer/settings/general.php:892
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/settings/blog.php:152 inc/customizer/settings/blog.php:690
+#: inc/customizer/settings/general.php:891
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/settings/blog.php:151 inc/customizer/settings/blog.php:689
+#: inc/customizer/settings/general.php:890
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/settings/blog.php:150 inc/customizer/settings/blog.php:688
+#: inc/customizer/settings/general.php:889
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/settings/blog.php:144 inc/customizer/settings/blog.php:682
+#: inc/customizer/settings/general.php:883
+msgid "Heading Tag"
+msgstr "תגית כותרת"
+
+#: inc/customizer/settings/blog.php:122 inc/customizer/settings/blog.php:660
+#: inc/customizer/settings/general.php:634
+#: inc/customizer/settings/general.php:829
+#: inc/customizer/settings/woocommerce.php:650
+#: inc/customizer/settings/woocommerce.php:1030
+msgid "Both Sidebars: Sidebars Width (%)"
+msgstr "סרגלים צדדיים משני הצדדים: רוחב סרגלים צדדיים (ב-%)"
+
+#: inc/customizer/settings/blog.php:100 inc/customizer/settings/blog.php:638
+#: inc/customizer/settings/general.php:612
+#: inc/customizer/settings/general.php:807
+#: inc/customizer/settings/woocommerce.php:628
+#: inc/customizer/settings/woocommerce.php:1008
+msgid "Both Sidebars: Content Width (%)"
+msgstr "סרגלים צדדיים משני הצדדים: רוחב תוכן (ב-%)"
+
+#: inc/customizer/settings/blog.php:86 inc/customizer/settings/blog.php:624
+#: inc/customizer/settings/general.php:598
+#: inc/customizer/settings/general.php:793
+#: inc/customizer/settings/woocommerce.php:614
+#: inc/customizer/settings/woocommerce.php:994
+msgid "Content / Sidebar / Sidebar"
+msgstr "תוכן / סרגל צדדי / סרגל צדדי"
+
+#: inc/customizer/settings/blog.php:85 inc/customizer/settings/blog.php:623
+#: inc/customizer/settings/general.php:597
+#: inc/customizer/settings/general.php:792
+#: inc/customizer/settings/woocommerce.php:613
+#: inc/customizer/settings/woocommerce.php:993
+msgid "Sidebar / Content / Sidebar"
+msgstr "סרגל צדדי / תוכן / סרגל צדדי"
+
+#: inc/customizer/settings/blog.php:84 inc/customizer/settings/blog.php:622
+#: inc/customizer/settings/general.php:596
+#: inc/customizer/settings/general.php:791
+#: inc/customizer/settings/woocommerce.php:612
+#: inc/customizer/settings/woocommerce.php:992
+msgid "Sidebar / Sidebar / Content"
+msgstr "סרגל צדדי / סרגל צדדי / תוכן"
+
+#: inc/customizer/settings/blog.php:78 inc/customizer/settings/blog.php:616
+#: inc/customizer/settings/general.php:590
+#: inc/customizer/settings/general.php:785
+#: inc/customizer/settings/woocommerce.php:606
+#: inc/customizer/settings/woocommerce.php:986
+msgid "Both Sidebars: Style"
+msgstr "סרגלים צדדיים משני הצדדים: עיצוב"
+
+#: inc/helpers.php:3388
+msgid "Vortex Reverse"
+msgstr "מערבולת [כיוון הפוך]"
+
+#: inc/helpers.php:3387
+msgid "Vortex"
+msgstr "מערבולת"
+
+#: inc/helpers.php:3386
+msgid "Squeeze"
+msgstr "נמעך"
+
+#: inc/helpers.php:3385
+msgid "Stand Reverse"
+msgstr "עמידה [כיוון הפוך]"
+
+#: inc/helpers.php:3384
+msgid "Stand"
+msgstr "עמידה"
+
+#: inc/helpers.php:3383
+msgid "Spring Reverse"
+msgstr "קפיץ [כיוון הפוך]"
+
+#: inc/helpers.php:3382
+msgid "Spring"
+msgstr "קפיץ"
+
+#: inc/helpers.php:3381
+msgid "Spin Reverse"
+msgstr "סיבוב [כיוון הפוך]"
+
+#: inc/helpers.php:3380
+msgid "Spin"
+msgstr "סיבוב"
+
+#: inc/helpers.php:3379
+msgid "Slider Reverse"
+msgstr "החלקה הצידה [כיוון הפוך]"
+
+#: inc/helpers.php:3378
+msgid "Slider"
+msgstr "החלקה הצידה"
+
+#: inc/helpers.php:3377
+msgid "Minus"
+msgstr "מינוס"
+
+#: inc/helpers.php:3376
+msgid "Elastic Reverse"
+msgstr "אלסטי [כיוון הפוך]"
+
+#: inc/helpers.php:3375
+msgid "Elastic"
+msgstr "אלסטי"
+
+#: inc/helpers.php:3374
+msgid "Collapse Reverse"
+msgstr "קריסה [כיוון הפוך]"
+
+#: inc/helpers.php:3373
+msgid "Collapse"
+msgstr "קריסה"
+
+#: inc/helpers.php:3372
+msgid "Boring"
+msgstr "ללא אנימציה"
+
+#: inc/helpers.php:3371
+msgid "Arrowturn Reverse"
+msgstr "סיבוב לחץ [כיוון הפוך]"
+
+#: inc/helpers.php:3370
+msgid "Arrowturn"
+msgstr "סיבוב לחץ"
+
+#: inc/helpers.php:3369
+msgid "Arrowalt Reverse"
+msgstr "הפיכה לחץ [אלטרנטיבי]"
+
+#: inc/helpers.php:3368
+msgid "Arrowalt"
+msgstr "הפיכה לחץ [אלטרנטיבי, כיוון הפוך]"
+
+#: inc/helpers.php:3367
+msgid "Arrow Reverse"
+msgstr "הפיכה לחץ [כיוון הפוך]"
+
+#: inc/helpers.php:3366
+msgid "Arrow"
+msgstr "הפיכה לחץ"
+
+#: inc/helpers.php:3365
+msgid "3D XY Reverse"
+msgstr "3D XY [כיוון הפוך]"
+
+#: inc/helpers.php:3364
+msgid "3D XY"
+msgstr "3D XY"
+
+#: inc/helpers.php:3363
+msgid "3D Y Reverse"
+msgstr "3D Y [כיוון הפוך]"
+
+#: inc/helpers.php:3362
+msgid "3D Y"
+msgstr "3D Y"
+
+#: inc/helpers.php:3361
+msgid "3D X Reverse"
+msgstr "3D X [כיוון הפוך]"
+
+#: inc/helpers.php:3360
+msgid "3D X"
+msgstr "3D [כיוון הפוך]"
+
+#: inc/helpers.php:3359
+msgid "Default Icon"
+msgstr "אייקון ברירת מחדל"
+
+#: inc/customizer/settings/topbar.php:321
+msgid "Choose a template created in Theme Panel > My Library to replace the content."
+msgstr "נא לבחור תבנית אשר נוצרה ב-״פאנל התבנית > הספריה שלי״ כדי להחליף את התוכן."
+
+#: inc/customizer/settings/general.php:2253
+msgid "All Post Types"
+msgstr "כל סוגי הפוסטים"
+
+#: inc/customizer/settings/header.php:3523
+msgid "Custom Hamburger Button: Color"
+msgstr "כפתור המבורגר מותאם אישית: צבע"
+
+#: inc/customizer/settings/header.php:3505
+msgid "Custom Hamburger Button"
+msgstr "כפתור המבורגר מותאם אישית"
+
+#: inc/customizer/settings/header.php:3470
+msgid "Close Menu Text"
+msgstr "הטקסט של כפתור סגירת תפריט הניווט"
+
+#: inc/customizer/settings/header.php:3464 inc/helpers.php:3439
+#: partials/mobile/mobile-icon.php:37
+msgid "Close"
+msgstr "סגירה"
+
+#: inc/customizer/settings/header.php:2257
+msgid "Backlighting"
+msgstr "תאורה אחורית"
+
+#: inc/customizer/settings/header.php:2256
+msgid "Underline & Overline"
+msgstr "קו תחתון וקו עליון"
+
+#: inc/customizer/settings/header.php:2255
+msgid "X Marks The Spot"
+msgstr "ה-X מסמן את המיקום"
+
+#: inc/customizer/settings/header.php:2254
+msgid "Tripple Dot Under"
+msgstr "שלוש נקודות מתחת"
+
+#: inc/customizer/settings/header.php:2253
+msgid "Circular Reveal"
+msgstr "חשיפה מעגלית"
+
+#: inc/customizer/settings/header.php:2252
+msgid "Overline & Fixed Underline"
+msgstr "קו עליון וקו תחתון קבוע"
+
+#: inc/customizer/settings/header.php:2251
+msgid "Brackets"
+msgstr "סוגריים"
+
+#: inc/customizer/settings/header.php:2250
+msgid "Underline Down"
+msgstr "קו תחתון"
+
+#: inc/customizer/settings/header.php:2249
+msgid "Underline Up"
+msgstr "קו עליון"
+
+#: inc/customizer/settings/header.php:2248
+msgid "Underline From Left"
+msgstr "קו תחתון משמאל"
+
+#: inc/customizer/settings/header.php:821
+msgid "Medium Header Settings"
+msgstr "הגדרות ראש אתר בינוני"
+
+#: inc/customizer/settings/header.php:454
+msgid "Full Screen Header Settings"
+msgstr "הגדרות ראש אתר מסך מלא"
+
+#: inc/customizer/settings/header.php:351
+msgid "Top Menu Header Settings"
+msgstr "הגדרות ראש אתר עם תפריט ניווט עליון"
+
+#: inc/customizer/settings/header.php:321
+msgid "Transparent Header Settings"
+msgstr "הגדרות ראש אתר שקוף"
+
+#: inc/customizer/settings/general.php:2164
+msgid "Enable this option to remove all the elements and have full control of the 404 error page."
+msgstr "הפעלת אפשרות זו תסיר את כל האלמנטים ותאפשר שליטה מלאה על עמוד השגיאה 404."
+
+#: inc/customizer/settings/general.php:2163
+msgid "Blank Page"
+msgstr "עמוד ריק"
+
+#: inc/customizer/settings/general.php:734
+msgid "Search Posts Per Page"
+msgstr "מספר תוצאות חיפוש לעמוד"
+
+#: inc/customizer/settings/header.php:2271
+#: inc/customizer/settings/header.php:2288
+msgid "Links Effect: Color"
+msgstr "אפקט קישורים: צבע"
+
+#: inc/customizer/settings/header.php:2247
+msgid "No Effect"
+msgstr "ללא אפקט"
+
+#: inc/customizer/settings/header.php:2241
+msgid "Links Effect"
+msgstr "אפקט קישורים"
+
+#: partials/none.php:11
+msgid "Ready to publish your first post? %1$sGet started here%2$s."
+msgstr "מוכנ/ה לפרסם את הפוסט הראשון שלך? %1$sמתחילים מכאן%2$s."
+
+#: inc/walker/init.php:70
+msgid "Theme Panel > My Library"
+msgstr "פאנל ערכת נושא > הספרייה שלי"
+
+#: inc/walker/init.php:70
+msgid "Template"
+msgstr "תבנית"
+
+#: inc/customizer/settings/header.php:3913
+msgid "Searchbar Border Color: Hover"
+msgstr "צבע מסגרת של תיבת החיפוש: מעבר עכבר"
+
+#: inc/customizer/settings/header.php:3832
+msgid "Links Background Color: Hover"
+msgstr "צבע רקע קישורים: מעבר עכבר"
+
+#: inc/customizer/settings/header.php:3702
+msgid "Styling: Mobile Menu"
+msgstr "עיצוב: תפריט הניווט של במובייל"
+
+#: inc/customizer/settings/header.php:3574
+msgid "Add the height from which you want to display the scrollbar in the drop down"
+msgstr "ניתן להוסיף את הגובה שממנו יוצג סרגל הגלילה בתפריט הניווט הנפתח"
+
+#: inc/customizer/settings/header.php:3573
+msgid "Drop Down Max Height (px)"
+msgstr "גובה מקסימלי לתפריט הניווט הנפתח (px)"
+
+#: inc/customizer/settings/header.php:3415
+msgid "Mobile Menu Style"
+msgstr "עיצוב תפריט ניווט למובייל"
+
+#: inc/customizer/settings/header.php:3394
+msgid "Enter your custom media query where you want to display the mobile menu."
+msgstr "ניתן להזין שאילתת מדיה מותאמת אישית לתפריט הניווט למובייל."
+
+#: inc/customizer/settings/header.php:3393
+msgid "Custom Media Query"
+msgstr "שאילתת מדיה מותאמת אישית"
+
+#: inc/customizer/settings/header.php:3310
+msgid "Custom media query"
+msgstr "שאילתת מדיה מותאמת אישית"
+
+#: inc/customizer/settings/header.php:3309
+msgid "From 320px"
+msgstr "החל מ-320px"
+
+#: inc/customizer/settings/header.php:3308
+msgid "From 480px"
+msgstr "החל מ-480px"
+
+#: inc/customizer/settings/header.php:3307
+msgid "From 767px"
+msgstr "החל מ-767px"
+
+#: inc/customizer/settings/header.php:3306
+msgid "From 959px"
+msgstr "החל מ-959px"
+
+#: inc/customizer/settings/header.php:3305
+msgid "From 1080px"
+msgstr "החל מ-1080px"
+
+#: inc/customizer/settings/header.php:3304
+msgid "From 1280px"
+msgstr "החל מ-1280px"
+
+#: inc/customizer/settings/header.php:3298
+msgid "Choose the media query where you want to display the mobile menu."
+msgstr "נא לבחור את שאילתת המדיה על מנת שיהיה איפה להציג את תפריט הניווט למובייל."
+
+#: inc/customizer/settings/header.php:3297
+msgid "Breakpoints"
+msgstr "נקודות עצירה"
+
+#: inc/customizer/settings/header.php:2084
+msgid "Max Height (px)"
+msgstr "גובה מקסימלי (px)"
+
+#: inc/customizer/settings/header.php:871
+msgid "Stick Only The Menu"
+msgstr "הדבקה של תפריט הניווט בלבד"
+
+#: inc/customizer/settings/general.php:545
+msgid "Enable Schema Markup"
+msgstr "הפעלת Schema Markup"
+
+#: inc/customizer/settings/footer-widgets.php:136
+#: inc/customizer/settings/general.php:2203
+#: inc/customizer/settings/header.php:90
+#: inc/customizer/settings/header.php:2951
+#: inc/customizer/settings/topbar.php:384
+msgid "Choose a template created in Theme Panel > My Library."
+msgstr "נא לבחור תבנית עמוד אשר נוצרה דרך \"פאנל התבנית > הספריה שלי\"."
+
+#: inc/customizer/settings/footer-widgets.php:135
+#: inc/customizer/settings/general.php:2202
+#: inc/customizer/settings/header.php:89
+#: inc/customizer/settings/header.php:1285
+#: inc/customizer/settings/header.php:2152
+#: inc/customizer/settings/header.php:2950
+#: inc/customizer/settings/topbar.php:320
+msgid "Select Template"
+msgstr "נא לבחור תבנית עמוד"
+
+#: inc/customizer/settings/blog.php:1048
+msgid "Related Posts Taxonomy"
+msgstr "טקסונומיה עבור פוסטים קשורים"
+
+#: inc/customizer/settings/blog.php:995 inc/customizer/settings/blog.php:1054
+msgid "Tag"
+msgstr "תגית"
+
+#: inc/customizer/settings/blog.php:989
+msgid "Next/Prev Taxonomy"
+msgstr "טקסונומיה עבור הקודם/הבא"
+
+#: inc/customizer/settings/blog.php:458
+msgid "Add 500 to display full content"
+msgstr "הקלדת 500 תציג את הפוסט במלואו, במקום רק את התקציר"
+
+#: inc/customizer/settings/woocommerce.php:1136
+msgid "Display Related Items"
+msgstr "הצגת פריטים קשורים"
+
+#: inc/customizer/settings/woocommerce.php:99
+#: inc/customizer/settings/woocommerce.php:1142
+msgid "No"
+msgstr "לא"
+
+#: inc/customizer/settings/woocommerce.php:98
+#: inc/customizer/settings/woocommerce.php:1141
+msgid "Yes"
+msgstr "כן"
+
+#: inc/customizer/settings/woocommerce.php:93
+msgid "Display the categories featured images before the product archives."
+msgstr "הצגת התמונות הראשיות של הקטגוריות לפני ארכיוני המוצר."
+
+#: inc/customizer/settings/woocommerce.php:92
+msgid "Display Featured Image"
+msgstr "הצגת תמונה ראשית"
+
+#: inc/customizer/settings/woocommerce.php:78
+msgid "Category Page"
+msgstr "עמוד קטגוריה"
+
+#: inc/customizer/controls/typo/class-control-typo.php:156
+#: inc/customizer/controls/typo/class-control-typo.php:225
+#: inc/customizer/controls/typo/class-control-typo.php:237
+msgid "px - em - rem"
+msgstr "px - em - rem"
+
+#: inc/customizer/controls/typo/class-control-typo.php:62
+msgid "Letter Spacing"
+msgstr "מרווח אותיות"
+
+#: inc/customizer/controls/typo/class-control-typo.php:57
+msgid "Font Size"
+msgstr "גודל פונט"
+
+#: inc/third/class-beaver-themer.php:150
+msgid "After Footer"
+msgstr "אחרי תחתית האתר"
+
+#: inc/third/class-beaver-themer.php:149
+msgid "After Footer Inner"
+msgstr "אחרי תחתית האתר, פנימי"
+
+#: inc/third/class-beaver-themer.php:148
+msgid "Before Footer Inner"
+msgstr "לפני תחתית האתר, פנימי"
+
+#: inc/third/class-beaver-themer.php:147
+msgid "Before Footer"
+msgstr "לפני תחתית האתר"
+
+#: inc/third/class-beaver-themer.php:141
+msgid "After Sidebar"
+msgstr "אחרי הסרגל הצדדי"
+
+#: inc/third/class-beaver-themer.php:140
+msgid "After Sidebar Inner"
+msgstr "אחרי הסרגל הצדדי, פנימי"
+
+#: inc/third/class-beaver-themer.php:139
+msgid "Before Sidebar Inner"
+msgstr "לפני הסרגל הצדדי, פנימי"
+
+#: inc/third/class-beaver-themer.php:138
+msgid "Before Sidebar"
+msgstr "לפני הסרגל הצדדי"
+
+#: inc/third/class-beaver-themer.php:132
+msgid "After Content"
+msgstr "אחרי התוכן"
+
+#: inc/third/class-beaver-themer.php:131
+msgid "After Content Inner"
+msgstr "לפני התוכן, פנימי"
+
+#: inc/third/class-beaver-themer.php:130
+msgid "Before Content Inner"
+msgstr "אחרי התוכן, פנימי"
+
+#: inc/third/class-beaver-themer.php:129
+msgid "Before Content"
+msgstr "לפני התוכן"
+
+#: inc/third/class-beaver-themer.php:123
+msgid "After Page Header"
+msgstr "אחרי ראש האתר"
+
+#: inc/third/class-beaver-themer.php:122
+msgid "After Page Header Inner"
+msgstr "אחרי ראש העמוד, פנימי"
+
+#: inc/third/class-beaver-themer.php:121
+msgid "Before Page Header Inner"
+msgstr "לפני ראש העמוד, פנימי"
+
+#: inc/third/class-beaver-themer.php:120
+msgid "Before Page Header"
+msgstr "לפני ראש העמוד"
+
+#: inc/third/class-beaver-themer.php:118
+msgid "Page Header"
+msgstr "ראש העמוד"
+
+#: inc/third/class-beaver-themer.php:114
+msgid "After Header"
+msgstr "לפני ראש האתר"
+
+#: inc/third/class-beaver-themer.php:113
+msgid "After Header Inner"
+msgstr "אחרי ראש האתר, פנימי"
+
+#: inc/third/class-beaver-themer.php:112
+msgid "Before Header Inner"
+msgstr "לפני ראש האתר, פנימי"
+
+#: inc/third/class-beaver-themer.php:111
+msgid "Before Header"
+msgstr "לפני ראש האתר"
+
+#: inc/third/class-beaver-themer.php:105
+msgid "After Top Bar"
+msgstr "אחרי הבר העליון"
+
+#: inc/third/class-beaver-themer.php:104
+msgid "After Top Bar Inner"
+msgstr "אחרי הבר העליון, פנימי"
+
+#: inc/third/class-beaver-themer.php:103
+msgid "Before Top Bar Inner"
+msgstr "לפני הבר העליון, פנימי"
+
+#: inc/third/class-beaver-themer.php:102
+msgid "Before Top Bar"
+msgstr "לפני הבר העליון"
+
+#: inc/third/class-beaver-themer.php:96
+msgid "After Page"
+msgstr "אחרי העמוד"
+
+#: inc/third/class-beaver-themer.php:95
+msgid "Before Page"
+msgstr "לפני העמוד"
+
+#: inc/third/class-beaver-themer.php:93
+msgid "Page"
+msgstr "עמוד"
+
+#. Template Name of the plugin/theme
+msgid "Landing Page"
+msgstr "עמוד נחיתה"
+
+#: woocommerce/global/result-count.php:63
+msgid "All"
+msgstr "הכל"
+
+#: woocommerce/global/result-count.php:60
+msgid "View:"
+msgstr "צפייה:"
+
+#: woocommerce/checkout/form-coupon.php:41
+msgid "Apply coupon"
+msgstr "יישום קופון"
+
+#: woocommerce/checkout/form-coupon.php:37
+msgid "Coupon code"
+msgstr "קוד קופון"
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr "נא להקליק כאן כדי לשים את הקוד"
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr "יש לך קופון?"
+
+#: partials/single/related-posts.php:19
+msgid "You Might Also Like"
+msgstr "אולי תאהב/י גם"
+
+#: partials/single/next-prev.php:25
+msgid "Next Post"
+msgstr "הפוסט הבא"
+
+#: partials/single/next-prev.php:24
+msgid "Previous Post"
+msgstr "הפוסט הקודם"
+
+#: partials/single/author-bio.php:36 partials/single/author-bio.php:47
+msgid "Visit Author Page"
+msgstr "ביקור בעמוד המחבר/ת"
+
+#: partials/page/article.php:18 partials/single/content.php:19
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: partials/none.php:21
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "עושה רושם שלא ניתן למצוא את מה שאת/ה מחפש/ת."
+
+#: partials/none.php:19
+msgid "There aren't any posts currently published under this tag."
+msgstr "אין פוסטים תחת התגית הזו."
+
+#: partials/none.php:17
+msgid "There aren't any posts currently published under this taxonomy."
+msgstr "אין פוסטים אשר פורסמו תחת הטקסונומיה הזו."
+
+#: partials/none.php:15
+msgid "There aren't any posts currently published in this category."
+msgstr "אין פוסטים בקטגוריה הזו כרגע."
+
+#: partials/none.php:13
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr "סליחה, אבל אין תוצאות התואמות את מונחי החיפוש. נא לנסות שוב עם ביטוי חיפוש שונה."
+
+#: partials/header/style/medium-header-search.php:24
+#: partials/header/style/vertical-header-search.php:24
+msgid "Search..."
+msgstr "חיפוש..."
+
+#: partials/header/search-replace.php:18
+msgid "Type then hit enter to search..."
+msgstr "נא להקליד ואז להקיש Enter לחיפוש..."
+
+#: partials/header/search-overlay.php:21
+msgid "Type your text and hit enter to search"
+msgstr "נא להקליד ואז להקיש Enter לחיפוש"
+
+#: partials/entry/readmore.php:14 partials/search/readmore.php:14
+#: partials/single/next-prev.php:28
+msgid "Continue Reading"
+msgstr "להמשך קריאה"
+
+#: partials/entry/meta.php:42 partials/entry/thumbnail-style/comments.php:16
+#: partials/single/meta.php:48
+msgid "% Comments"
+msgstr "יש % תגובות"
+
+#: partials/entry/meta.php:42 partials/entry/thumbnail-style/comments.php:16
+#: partials/single/meta.php:48
+msgid "1 Comment"
+msgstr "יש תגובה אחת"
+
+#: partials/entry/meta.php:42 partials/entry/thumbnail-style/comments.php:16
+#: partials/single/meta.php:48
+msgid "0 Comments"
+msgstr "אין תגובות"
+
+#: inc/woocommerce/woocommerce-helpers.php:90
+#: woocommerce/loop/thumbnail/featured-image.php:50
+msgid "Placeholder Image"
+msgstr "תמונת מחזיק מקום"
+
+#: inc/woocommerce/woocommerce-config.php:1267
+msgid "WooCommerce Product Title"
+msgstr "כותרת מוצר WooCommerce"
+
+#: inc/woocommerce/woocommerce-config.php:1241
+msgid "Your cart"
+msgstr "עגלת הקניות שלך"
+
+#: inc/woocommerce/woocommerce-config.php:839
+msgid "Logout"
+msgstr "ניתוק"
+
+#: inc/woocommerce/woocommerce-config.php:830
+msgid "Welcome!"
+msgstr "ברוך/ה הבא/ה!"
+
+#: inc/woocommerce/woocommerce-config.php:603
+msgid "Out of Stock"
+msgstr "אזל המלאי"
+
+#: inc/woocommerce/woocommerce-config.php:454
+msgid "List view"
+msgstr "תצוגת רשימה"
+
+#: inc/woocommerce/woocommerce-config.php:453
+msgid "Grid view"
+msgstr "תצוגת גריד"
+
+#: inc/woocommerce/woocommerce-config.php:353
+msgid "WooCommerce Sidebar"
+msgstr "סרגל צדדי WooCommerce"
+
+#: inc/walker/init.php:126
+msgid "Select Widget Area"
+msgstr "נא לבחור איזור וידג׳טים"
+
+#: inc/walker/init.php:124
+msgid "Mega Menu Widget Area"
+msgstr "איזור וידג׳טים למגה תפריט"
+
+#: inc/walker/init.php:119
+msgid "Hide Mega menu heading?"
+msgstr "להסתיר כותרת מגה תפריט?"
+
+#: inc/walker/init.php:112
+msgid "Megamenu columns (from 1 to 6)"
+msgstr "עמודות מגה תפריט ניווט (מ-1 עד 6)"
+
+#: inc/walker/init.php:107
+msgid "Megamenu auto width?"
+msgstr "להפעיל רוחב אוטומטי עבור מגה תפריט?"
+
+#: inc/walker/init.php:101
+msgid "Enable megamenu"
+msgstr "הפעלת מגה תפריט"
+
+#: inc/walker/init.php:94
+msgid "Display Latest Posts"
+msgstr "הצגת פוסטים אחרונים"
+
+#: inc/walker/init.php:87
+msgid "Disable link"
+msgstr "השבתת קישור"
+
+#: inc/walker/init.php:72
+msgid "Select A Template"
+msgstr "נא לבחור תבנית עמוד"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "מותקן התוסף %1$s (%2$d/%3$d)"
+
+#: inc/plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "כל ההתקנות הסתיימו."
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s הותקן בהצלחה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "תהליך ההתקנה החל. תהליך זה עלול להמשך זמן מה בחברות אחסון מסויימות, אז נא להתאזר בסבלנות."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "מותקן ומופעל התוסף %1$s (%2$d/%3$d)"
+
+#: inc/plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "כל ההתקנות וההפעלות הסתיימו."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3509
+#: inc/plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "הסרת פרטים"
+
+#: inc/plugins/class-tgm-plugin-activation.php:3509
+#: inc/plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "הצגת פרטים"
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s הותקן והופעל בהצלחה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "תהליך ההתקנה וההפעלה החל. זה עלול לקחת זמן מה בחברות אחסון מסויימות, אז נא להתאזר בסבלנות."
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "ההתקנה של %1$s נכשלה."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/plugins/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "חלה שגיאה בעת ההתקנה של %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/plugins/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "התוסף %1$s (%2$d/%3$d) בעת עדכון."
+
+#: inc/plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "הפעלת התוסף נכשלה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "אין תוספים זמינים להפעלה בזמן זה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "לא נבחרו תוספים להפעלה. לא ננקטה שום פעולה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "אין תוספים זמינים לעדכון בזמן זה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "אין תוספים זמינים להתקנה בזמן זה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "לא נבחרו תוספים לעדכון. לא ננקטה שום פעולה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "לא נבחרו תוספים להתקנה. ללא ננקטה שום פעולה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "הפעלה"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "עדכון"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "התקנה"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "הודעת שדרוג ממחבר התוסף:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "הפעלה של %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "עדכון של %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/plugins/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "התקנה של %2$s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "סטטוס"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "גרסה"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "סוג"
+
+#: inc/customizer/settings/general.php:718
+#: inc/plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "מקור"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "תוסף"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "אין תוספים להתקנה, עדכון או הפעלה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "גרסה זמינה:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "גרסה מינימלית נדרשת:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "גרסה מותקנת:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "לא ידועה"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "כדי להפעיל <span class=\"count\">(%s)</span>"
+msgstr[1] "כדי להפעיל <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "קיים עדכון עבור <span class=\"count\">(%s)</span>"
+msgstr[1] "קיימים עדכונים עבור <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "כדי להתקין <span class=\"count\">(%s)</span>"
+msgstr[1] "כדי להתקין <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/plugins/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "הכל <span class=\"count\">(%s)</span>"
+msgstr[1] "הכל <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/plugins/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "מומלץ לעדכן"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "דורש עדכון"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "העדכון הדרוש אינו זמין"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "פעיל"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "מותקן אך לא מופעל"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "לא מותקן"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "ארוז מראש"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "מקור חיצוני"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "ספריית התוספים של וורדפרס"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "מומלץ"
+
+#: inc/plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "נדרש"
+
+#. translators: %s: version number
+#: inc/plugins/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA  בגרסה %s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:1121
+#: inc/plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "וגם"
+
+#: inc/plugins/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "חבילת התוספים המרוחקת מכילה יותר מקובץ אחד, אבל הקבצים אינם ארוזים בתיקייה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:934
+#: inc/plugins/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "נא  לפנות אל ספק התוסף ולבקש מהם לארוז את התוסף שלהם בהתאם להנחיות של וורדפרס."
+
+#: inc/plugins/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "אריזת התוסף המרוחק אינה מכילה תיקייה עם השם הנכון, ושינוי השם לא עבד בהצלחה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "נדרש עדכון"
+
+#: inc/plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "התוסף הזה צריך להיות מעודכן ולהיות תואם לערכת הנושא שלך."
+
+#: inc/plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "נא ליצור קשר עם מנהל אתר של האתר הזה לעזרה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "יש תוסף מומלץ אחד או יותר להתקנה, עדכון או הפעלה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "ביטול הודעה זו"
+
+#. translators: 1: dashboard link.
+#: inc/plugins/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "כל התוספים הותקנו והופעלו בהצלחה. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "התוסף לא הופעל. קיימת גרסה חדשה יותר של %s והיא דרושה לערכת הנושא הזו. נא לעדכן את התוסף."
+
+#. translators: 1: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "לא ננקטה פעולה. התוסף %1$s כבר היה פעיל."
+
+#: inc/plugins/class-tgm-plugin-activation.php:388
+#: inc/plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "התוסף הבא הופעל בהצלחה:"
+
+#: inc/plugins/class-tgm-plugin-activation.php:387
+#: inc/plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "התוסף הופעל בהצלחה."
+
+#: inc/plugins/class-tgm-plugin-activation.php:386
+#: inc/plugins/class-tgm-plugin-activation.php:827
+#: inc/plugins/class-tgm-plugin-activation.php:2533
+#: inc/plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "חזרה אל לוח הבקרה"
+
+#: inc/plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "חזרה אל ההתקנה של התוספים הדרושים"
+
+#: inc/plugins/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "התחלת הפעלת התוסף"
+msgstr[1] "התחלת הפעלת התוספים"
+
+#: inc/plugins/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "התחלת עדכון התוסף"
+msgstr[1] "התחלת עדכון התוספים"
+
+#. translators: 1: plugin name(s).
+#: inc/plugins/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "התחלת התקנת התוסף"
+msgstr[1] "התחלת התקנת התוספים"
+
+#: inc/plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "משהו השתבש עם ה-API של התוסף."
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "עדכון תוסף: %s"
+
+#. translators: %s: plugin name.
+#: inc/plugins/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "כעת מותקן התוסף: %s"
+
+#: inc/plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "התקנת תוספים"
+
+#: inc/plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "התקנת תוספים נדרשים"
+
+#: inc/helpers.php:3539
+msgid "Email"
+msgstr "אימייל"
+
+#: inc/helpers.php:3535
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/helpers.php:3531
+msgid "Tripadvisor"
+msgstr "Tripadvisor"
+
+#: inc/helpers.php:3527
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/helpers.php:3523
+msgid "Xing"
+msgstr "Xing"
+
+#: inc/helpers.php:3519
+msgid "Vine"
+msgstr "Vine"
+
+#: inc/helpers.php:3515
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/helpers.php:3511
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/helpers.php:3507
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/helpers.php:3503
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/helpers.php:3499
+msgid "Github"
+msgstr "Github"
+
+#: inc/helpers.php:3495
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/helpers.php:3491
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/helpers.php:3487
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/helpers.php:3483
+msgid "VK"
+msgstr "VK"
+
+#: inc/helpers.php:3479
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/helpers.php:3475
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/helpers.php:3471
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/helpers.php:3467
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/helpers.php:3463
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/helpers.php:3441
+msgid "Copyright [oceanwp_date] - OceanWP Theme by Nick"
+msgstr "כל הזכויות שמורות [oceanwp_date] - תבנית OceanWP על ידי ניק"
+
+#: inc/helpers.php:2992 inc/helpers.php:3044
+#: inc/woocommerce/woocommerce-config.php:274
+msgid "Older Posts"
+msgstr "פוסטים קודמים"
+
+#: inc/helpers.php:2989 inc/helpers.php:3043
+#: inc/woocommerce/woocommerce-config.php:273
+msgid "Newer Posts"
+msgstr "פוסטים הבאים"
+
+#: inc/helpers.php:2855
+msgid "Your comment is awaiting moderation."
+msgstr "התגובה שלך ממתינה לאישור."
+
+#: inc/helpers.php:2843
+msgid "edit"
+msgstr "עריכה"
+
+#: inc/helpers.php:2834
+msgid "%s "
+msgstr "%s"
+
+#: inc/helpers.php:2816
+msgid "(Edit)"
+msgstr "(עריכה)"
+
+#: inc/helpers.php:2816
+msgid "Pingback:"
+msgstr "פינגבק:"
+
+#: inc/helpers.php:2727
+msgid "Related Posts"
+msgstr "פוסטים קשורים"
+
+#: inc/helpers.php:2726
+msgid "Author Box"
+msgstr "תיבת מחבר"
+
+#: inc/helpers.php:2725
+msgid "Next/Prev Links"
+msgstr "קישורי הקודם/הבא"
+
+#: inc/helpers.php:2724
+msgid "Social Share"
+msgstr "שיתוף חברתי"
+
+#: inc/helpers.php:2723
+msgid "Tags"
+msgstr "תגיות"
+
+#: inc/helpers.php:2638
+msgid "Read More"
+msgstr "להמשך קריאה"
+
+#: inc/helpers.php:1850
+msgid "articles"
+msgstr "מאמרים"
+
+#: inc/helpers.php:1850
+msgid "This author has written"
+msgstr "המשתמש/ת כתב/ה"
+
+#: inc/helpers.php:1845
+msgid "You searched for:"
+msgstr "בוצע חיפוש עבור:"
+
+#: inc/helpers.php:1789
+msgid "404: Page Not Found"
+msgstr "404: העמוד לא נמצא"
+
+#: inc/helpers.php:1767
+msgctxt "Page title yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/helpers.php:1767
+msgid "Yearly Archives: %s"
+msgstr "ארכיונים שנתיים: %s"
+
+#: inc/helpers.php:1762
+msgctxt "Page title monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/helpers.php:1762
+msgid "Monthly Archives: %s"
+msgstr "ארכיונים חודשיים: %s"
+
+#: inc/helpers.php:1757
+msgid "Daily Archives: %s"
+msgstr "ארכיונים יומיים: %s"
+
+#: inc/helpers.php:1739
+msgid "Search Results Found"
+msgstr "תוצאות חיפוש אשר נמצאו"
+
+#: inc/helpers.php:1726
+msgid "Recent Posts"
+msgstr "פוסטים אחרונים"
+
+#: partials/mobile/mobile-search.php:18 searchform.php:17
+msgid "Search"
+msgstr "חיפוש"
+
+#: inc/helpers.php:1488 partials/mobile/mobile-fullscreen-search.php:28
+msgid "Type your search"
+msgstr "נא להקליד את החיפוש"
+
+#: inc/customizer/settings/woocommerce.php:2956
+msgid "Payment Box Color"
+msgstr "צבע תיבת תשלום"
+
+#: inc/customizer/settings/woocommerce.php:2940
+msgid "Payment Box Background"
+msgstr "צבע רקע תיבת תשלום"
+
+#: inc/customizer/settings/woocommerce.php:2924
+msgid "Payment Methods Borders Color"
+msgstr "צבע מסגרת אופני תשלום"
+
+#: inc/customizer/settings/woocommerce.php:2908
+msgid "Payment Methods Background"
+msgstr "צבע רקע אופני תשלום"
+
+#: inc/customizer/settings/woocommerce.php:2892
+msgid "Table Borders Color"
+msgstr "צבע מסגרת טבלה"
+
+#: inc/customizer/settings/woocommerce.php:2876
+msgid "Table Titles Color"
+msgstr "צבע כותרת טבלה"
+
+#: inc/customizer/settings/woocommerce.php:2860
+msgid "Table Main Background"
+msgstr "צבע רקע ראשי לטבלה"
+
+#: inc/customizer/settings/woocommerce.php:2844
+msgid "Titles Border Bottom Color"
+msgstr "צבע מסגרת תחתונה של כותרת"
+
+#: inc/customizer/settings/woocommerce.php:2828
+msgid "Titles Color"
+msgstr "צבע כותרות"
+
+#: inc/customizer/settings/woocommerce.php:2812
+msgid "Notices Form: Border Color"
+msgstr "טופס התראות: צבע מסגרת"
+
+#: inc/customizer/settings/woocommerce.php:2796
+msgid "Notices: Link Color: Hover"
+msgstr "התראות: צבע קישור: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:2780
+msgid "Notices: Link Color"
+msgstr "התראות: צבע קישור"
+
+#: inc/customizer/settings/woocommerce.php:2764
+msgid "Notices: Color"
+msgstr "התראות: צבע"
+
+#: inc/customizer/settings/woocommerce.php:2748
+msgid "Notices: Icon Color"
+msgstr "התראות: צבע אייקון"
+
+#: inc/customizer/settings/woocommerce.php:2732
+msgid "Notices: Borders Color"
+msgstr "התראות: צבע מסגרת"
+
+#: inc/customizer/settings/woocommerce.php:2717
+msgid "Checkout"
+msgstr "לקופה"
+
+#: inc/customizer/settings/woocommerce.php:2703
+msgid "Remove Button Color: Hover"
+msgstr "צבע כפתור הסרת מוצר: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:2687
+msgid "Remove Button Color"
+msgstr "צבע כפתור הסרת מוצר"
+
+#: inc/customizer/settings/woocommerce.php:2672
+msgid "Cart Totals Table: Titles Color"
+msgstr "טבלת סך הכל בעגלת הקניות: צבע כותרות"
+
+#: inc/customizer/settings/woocommerce.php:2656
+msgid "Head Titles Color"
+msgstr "צבע כותרות ראש"
+
+#: inc/customizer/settings/woocommerce.php:2640
+msgid "Head Background"
+msgstr "צבע רקע ראש"
+
+#: inc/customizer/settings/woocommerce.php:2609
+msgid "Cart"
+msgstr "עגלת קניות"
+
+#: inc/customizer/settings/woocommerce.php:2595
+msgid "Addresses: Box Button color: Hover"
+msgstr "כתובות: צבע כפתור תיבה: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:2579
+msgid "Addresses: Box Button color"
+msgstr "כתובות: צבע כפתור תיבה"
+
+#: inc/customizer/settings/woocommerce.php:2563
+msgid "Addresses: Box Button Background: Hover"
+msgstr "כתובות: צבע רקע לכפתור התיבה: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:2547
+msgid "Addresses: Box Button Background"
+msgstr "כתובות: צבע רקע לכפתור התיבה"
+
+#: inc/customizer/settings/woocommerce.php:2531
+msgid "Addresses: Box Content Color"
+msgstr "כתובות: צבע תוכן תיבה"
+
+#: inc/customizer/settings/woocommerce.php:2515
+msgid "Addresses: Box Title Border Bottom Color"
+msgstr "כתובות: צבע מסגרת תחתונה של כותרת תיבה"
+
+#: inc/customizer/settings/woocommerce.php:2499
+msgid "Addresses: Box Title Color"
+msgstr "כתובות: צבע של כותרת תיבה"
+
+#: inc/customizer/settings/woocommerce.php:2483
+msgid "Addresses: Box Background"
+msgstr "כתובות: צבע רגע של התיבה"
+
+#: inc/customizer/settings/woocommerce.php:2467
+msgid "Navigation: Links Color: Hover"
+msgstr "ניווט: צבע קישורים: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:2451
+msgid "Navigation: Links Color"
+msgstr "ניווט: צבע קישורים"
+
+#: inc/customizer/settings/woocommerce.php:2435
+msgid "Navigation: Icons Color"
+msgstr "ניווט: צבע אייקונים"
+
+#: inc/customizer/settings/woocommerce.php:2419
+msgid "Navigation: Borders Color"
+msgstr "ניווט: צבע מסגרות"
+
+#: inc/customizer/settings/woocommerce.php:2404
+msgid "Account"
+msgstr "חשבון"
+
+#: inc/customizer/settings/woocommerce.php:2390
+msgid "Product Description: Color"
+msgstr "תיאור מוצר: צבע"
+
+#: inc/customizer/settings/woocommerce.php:2374
+msgid "Product Description: Title Color"
+msgstr "תיאור מוצר: צבע כותרת"
+
+#: inc/customizer/settings/woocommerce.php:2358
+msgid "Active Text Borders Color"
+msgstr "צבע מסגרות טקסט פעילות"
+
+#: inc/customizer/settings/woocommerce.php:2342
+msgid "Active Text Color"
+msgstr "צבע טקסט פעיל"
+
+#: inc/customizer/settings/woocommerce.php:2326
+msgid "Text Color: Hover"
+msgstr "צבע טקסט: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:2279
+msgid "Single Product: Tabs"
+msgstr "מוצר בודד: לשוניות"
+
+#: inc/customizer/settings/woocommerce.php:2265
+msgid "Next/Prev Color"
+msgstr "צבע קודם/הבא"
+
+#: inc/customizer/settings/woocommerce.php:2249
+msgid "Next/Prev Background: Hover"
+msgstr "צבע רקע קודם/הבא: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:2234
+msgid "Single Product: Thumbnails"
+msgstr "מוצר בודד: תמונות ממוזערות"
+
+#: inc/customizer/settings/woocommerce.php:2220
+msgid "Meta Link Color: Hover"
+msgstr "צבע קישור מטא: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:2204
+msgid "Meta Link Color"
+msgstr "צבע קישור מטא"
+
+#: inc/customizer/settings/woocommerce.php:2188
+msgid "Meta Title Color"
+msgstr "צבע כותרת מטא"
+
+#: inc/customizer/settings/woocommerce.php:2172
+msgid "Quantity Plus/Minus Border Color: Hover"
+msgstr "צבע גבול של פלוס/מינוס כמות: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:2156
+msgid "Quantity Plus/Minus Color: Hover"
+msgstr "צבע של פלוס/מינוס כמות: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:2140
+msgid "Quantity Plus/Minus Color"
+msgstr "צבע של פלוס/מינוס כמות"
+
+#: inc/customizer/settings/woocommerce.php:2108
+msgid "Quantity Border Color Focus"
+msgstr "צבע גבול של פלוס/מינוס כמות"
+
+#: inc/customizer/settings/woocommerce.php:2092
+msgid "Quantity Border Color"
+msgstr "צבע מסגרת לכמות"
+
+#: inc/customizer/settings/woocommerce.php:2076
+msgid "Description Color"
+msgstr "צבע תיאור"
+
+#: inc/customizer/settings/woocommerce.php:2013
+msgid "Single Product"
+msgstr "מוצר בודד"
+
+#: inc/customizer/settings/woocommerce.php:1941
+msgid "Add To Cart Border Color: Hover"
+msgstr "צבע מסגרת הוספה לעגלת הקניות: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:1925
+msgid "Add To Cart Border Color"
+msgstr "צבע מסגרת הוספה לעגלת הקניות: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:1909
+msgid "Add To Cart Color: Hover"
+msgstr "צבע הוספה לעגלת הקניות: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:1893
+msgid "Add To Cart Color"
+msgstr "צבע הוספה לעגלת הקניות"
+
+#: inc/customizer/settings/woocommerce.php:1834
+#: inc/customizer/settings/woocommerce.php:2060
+msgid "Del Price Color"
+msgstr "צבע מחיר מחוק (לפני הנחה)"
+
+#: inc/customizer/settings/woocommerce.php:1802
+msgid "Title Color: Hover"
+msgstr "צבע כותרת: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:1786
+#: inc/customizer/settings/woocommerce.php:2028
+msgid "Title Color"
+msgstr "צבע כותרת"
+
+#: inc/customizer/settings/woocommerce.php:1770
+msgid "Category Color: Hover"
+msgstr "צבע קטגוריה: מעבר עכבר"
+
+#: inc/customizer/settings/blog.php:373
+#: inc/customizer/settings/woocommerce.php:1754
+msgid "Category Color"
+msgstr "צבע קטגוריה"
+
+#: inc/customizer/settings/woocommerce.php:1472
+msgid "Product Entry"
+msgstr "רשומת מוצר"
+
+#: inc/customizer/settings/woocommerce.php:1458
+msgid "Number of Products Border Color"
+msgstr "צבע מסגרת למספר המוצרים"
+
+#: inc/customizer/settings/woocommerce.php:1442
+msgid "Number of Products Inactive Color"
+msgstr "צבע לא פעיל למספר המוצרים"
+
+#: inc/customizer/settings/woocommerce.php:1426
+msgid "Number of Products Color"
+msgstr "צבע מספר מוצרים"
+
+#: inc/customizer/settings/woocommerce.php:1410
+msgid "Select Border Color"
+msgstr "בחירת צבע מסגרת"
+
+#: inc/customizer/settings/woocommerce.php:1394
+msgid "Select Color"
+msgstr "בחירת צבע"
+
+#: inc/customizer/settings/woocommerce.php:1378
+msgid "Grid/List Active Color"
+msgstr "צבע פעיל גריד/רשימה"
+
+#: inc/customizer/settings/woocommerce.php:1362
+msgid "Grid/List Hover Color"
+msgstr "צבע מעבר עכבר גריד/רשימה"
+
+#: inc/customizer/settings/woocommerce.php:1346
+msgid "Grid/List Border Color"
+msgstr "צבע מסגרת גריד/רשימה"
+
+#: inc/customizer/settings/woocommerce.php:1330
+msgid "Grid/List Color"
+msgstr "צבע גריד/רשימה"
+
+#: inc/customizer/settings/woocommerce.php:1314
+msgid "Border Top/Bottom Color"
+msgstr "צבע מסגרת עליונה/תחתונה"
+
+#: inc/customizer/settings/woocommerce.php:1299
+msgid "Product Entry: Toolbar"
+msgstr "רשומת מוצר: סרגל כלים"
+
+#: inc/customizer/settings/woocommerce.php:1285
+msgid "Stars Color"
+msgstr "צבע כוכבים"
+
+#: inc/customizer/settings/woocommerce.php:1269
+msgid "Stars Color Before"
+msgstr "צבע כוכבים, לפני"
+
+#: inc/customizer/settings/woocommerce.php:1253
+msgid "Out of Stock Color"
+msgstr "צבע אזל מן המלאי"
+
+#: inc/customizer/settings/woocommerce.php:1237
+msgid "Out of Stock Background"
+msgstr "רקע אזל מהמלאי"
+
+#: inc/customizer/settings/woocommerce.php:1221
+msgid "On Sale Color"
+msgstr "צבע במבצע"
+
+#: inc/customizer/settings/woocommerce.php:1205
+msgid "On Sale Background"
+msgstr "צבע רקע במבצע"
+
+#: inc/customizer/settings/woocommerce.php:1190
+msgid "Advanced Styling"
+msgstr "סגנון מתקדם"
+
+#: inc/customizer/settings/woocommerce.php:1175
+msgid "Related Products Columns"
+msgstr "עמודות מוצרים קשורים"
+
+#: inc/customizer/settings/woocommerce.php:1155
+msgid "Related Items Count"
+msgstr "מספר פריטים קשורים"
+
+#: inc/customizer/settings/woocommerce.php:1116
+msgid "Up-Sells Columns"
+msgstr "עמודות קידום מכירות"
+
+#: inc/customizer/settings/woocommerce.php:1096
+msgid "Up-Sells Count"
+msgstr "כמות קידום מכירות"
+
+#: inc/customizer/settings/woocommerce.php:1076
+msgid "Tabs Position"
+msgstr "מיקום לשוניות"
+
+#: inc/customizer/settings/woocommerce.php:1062
+msgid "Product Meta"
+msgstr "מטא מוצר"
+
+#: inc/customizer/settings/woocommerce.php:1061
+msgid "Quantity & Add To Cart"
+msgstr "כמות והוספה לעגלת הקניות"
+
+#: inc/customizer/settings/woocommerce.php:1060
+msgid "Excerpt"
+msgstr "תקציר"
+
+#: inc/customizer/settings/woocommerce.php:1059
+msgid "Price"
+msgstr "מחיר מוצר"
+
+#: inc/customizer/settings/woocommerce.php:1058
+msgid "Rating"
+msgstr "דירוג"
+
+#: inc/customizer/settings/woocommerce.php:1052
+msgid "Summary Elements Positioning"
+msgstr "מיקום תקציר אלמנטים"
+
+#: inc/customizer/settings/woocommerce.php:956
+msgid "Single"
+msgstr "יחיד"
+
+#: inc/customizer/settings/woocommerce.php:875
+msgid "Gallery Slider"
+msgstr "סליידר גלריה"
+
+#: inc/customizer/settings/woocommerce.php:874
+msgid "Image Swap"
+msgstr "החלפת תמונה"
+
+#: inc/customizer/settings/woocommerce.php:873 inc/helpers.php:2634
+#: inc/helpers.php:2719
+msgid "Featured Image"
+msgstr "תמונה ראשית"
+
+#: inc/customizer/settings/woocommerce.php:867
+msgid "Product Entry Media"
+msgstr "מדיה רשומת מוצר"
+
+#: inc/customizer/settings/woocommerce.php:854
+msgid "Add To Cart Button"
+msgstr "כפתור הוספה לעגלת הקניות"
+
+#: inc/customizer/settings/woocommerce.php:853
+msgid "Description"
+msgstr "תיאור"
+
+#: inc/customizer/settings/woocommerce.php:852
+msgid "Price/Rating"
+msgstr "מחיר/דירוג"
+
+#: inc/customizer/settings/woocommerce.php:851
+#: inc/customizer/settings/woocommerce.php:1057 inc/helpers.php:2635
+#: inc/helpers.php:2720
+msgid "Title"
+msgstr "כותרת"
+
+#: inc/customizer/settings/blog.php:994 inc/customizer/settings/blog.php:1053
+#: inc/customizer/settings/woocommerce.php:850
+msgid "Category"
+msgstr "קטגוריה"
+
+#: inc/customizer/settings/woocommerce.php:830
+msgid "Products"
+msgstr "מוצרים"
+
+#: inc/customizer/settings/woocommerce.php:815
+msgid "Shop Result Count"
+msgstr "כמות פריטים בחנות"
+
+#: inc/customizer/settings/woocommerce.php:799
+msgid "Shop Sort"
+msgstr "מיון חנות"
+
+#: inc/customizer/settings/woocommerce.php:778
+msgid "Length of the short description of the list view."
+msgstr "אורך התיאור הקצר בתצוגת רשימה."
+
+#: inc/customizer/settings/woocommerce.php:763
+msgid "List View"
+msgstr "תצוגת רשימה"
+
+#: inc/customizer/settings/woocommerce.php:762
+msgid "Grid View"
+msgstr "תצוגת גריד"
+
+#: inc/customizer/settings/woocommerce.php:756
+msgid "Default Catalog View"
+msgstr "תצוגת ברירת מחדל לקטלוג"
+
+#: inc/customizer/settings/woocommerce.php:740
+msgid "Grid/List Buttons"
+msgstr "כפתורי גריד/רשימה"
+
+#: inc/customizer/settings/woocommerce.php:726
+msgid "Toolbar"
+msgstr "סרגל כלים"
+
+#: inc/customizer/settings/woocommerce.php:703
+msgid "Shop Columns"
+msgstr "עמודות חנות"
+
+#: inc/customizer/settings/woocommerce.php:672
+msgid "Shop Posts Per Page"
+msgstr "פוסטים חנות לעמוד"
+
+#: inc/customizer/settings/woocommerce.php:565
+msgid "Checkout Button Color: Hover"
+msgstr "צבע כפתור לקופה: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:549
+msgid "Checkout Button Color"
+msgstr "צבע כפתור לקופה"
+
+#: inc/customizer/settings/woocommerce.php:533
+msgid "Checkout Button Background: Hover"
+msgstr "צבע רקע כפתור לקופה: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:517
+msgid "Checkout Button Background"
+msgstr "צבע רקע כפתור לקופה"
+
+#: inc/customizer/settings/woocommerce.php:501
+msgid "Subtotal Color"
+msgstr "צבע סיכום ביניים"
+
+#: inc/customizer/settings/woocommerce.php:485
+#: inc/customizer/settings/woocommerce.php:1818
+#: inc/customizer/settings/woocommerce.php:2044
+msgid "Price Color"
+msgstr "צבע מחיר"
+
+#: inc/customizer/settings/woocommerce.php:469
+#: inc/customizer/settings/woocommerce.php:2124
+msgid "Quantity Color"
+msgstr "צבע כמות"
+
+#: inc/customizer/settings/woocommerce.php:453
+msgid "Remove Link Color: Hover"
+msgstr "צבע קישור הסרה מעגלת הקניות: מעבר עכבר"
+
+#: inc/customizer/settings/woocommerce.php:437
+msgid "Remove Link Color"
+msgstr "צבע קישור הסרה מעגלת הקניות"
+
+#: inc/customizer/settings/woocommerce.php:389
+msgid "Dropdown Borders Color"
+msgstr "צבע מסגרת לתפריט ניווט נפתח"
+
+#: inc/customizer/settings/woocommerce.php:368
+msgid "Cart Dropdowns Width (px)"
+msgstr "רוחב תפריט נפתח של עגלת הקניות (px)"
+
+#: inc/customizer/settings/woocommerce.php:353
+msgid "Cart Dropdown Styling"
+msgstr "סגנון תפריט נפתח של עגלת הקניות"
+
+#: inc/customizer/settings/woocommerce.php:330
+msgid "Use this field to center your icon vertically"
+msgstr "יש לעשות שימוש בשדה זה כדי למרכז את האייקון שלך במאונך"
+
+#: inc/customizer/settings/woocommerce.php:329
+msgid "Center Vertically"
+msgstr "מיכוז במאונך"
+
+#: inc/customizer/settings/woocommerce.php:271
+msgid "Enter your full icon class"
+msgstr "נא להזין את ה-class המלא של האייקון"
+
+#: inc/customizer/settings/woocommerce.php:270
+msgid "Custom Icon"
+msgstr "אייקון מותאם אישית"
+
+#: inc/customizer/settings/woocommerce.php:254
+msgid "Cart Icon"
+msgstr "אייקון לעגלת הקניות"
+
+#: inc/customizer/settings/woocommerce.php:237
+msgid "The Custom Link style need to be selected"
+msgstr "יש לבחור בקישור מותאם אישית"
+
+#: inc/customizer/settings/woocommerce.php:223
+#: inc/customizer/settings/woocommerce.php:236
+msgid "Custom Link"
+msgstr "קישור מותאם אישית"
+
+#: inc/customizer/settings/woocommerce.php:222
+msgid "Go To Cart"
+msgstr "אל עגלת הקניות"
+
+#: inc/customizer/settings/woocommerce.php:221
+msgid "Drop-Down"
+msgstr "תת-תפריט ניווט נפתח"
+
+#: inc/customizer/settings/woocommerce.php:201
+msgid "Icon And Cart Count + Total"
+msgstr "כמות + סך הכל של אייקון ועגלת קניות"
+
+#: inc/customizer/settings/woocommerce.php:200
+msgid "Icon And Cart Count"
+msgstr "כמו אייקון ועגלת קניות"
+
+#: inc/customizer/settings/woocommerce.php:199
+msgid "Icon And Cart Total"
+msgstr "סך הכל אייקון ועגלת קניות"
+
+#: inc/customizer/settings/woocommerce.php:191
+msgid "Display"
+msgstr "תצוגה"
+
+#: inc/customizer/settings/woocommerce.php:175
+msgid "Hide If Empty Cart"
+msgstr "להסתיר אם עגלת הקניות ריקה"
+
+#: inc/customizer/settings/woocommerce.php:160
+msgid "Menu Cart"
+msgstr "תפריט ניווט לעגלת הקניות"
+
+#: inc/customizer/settings/woocommerce.php:145
+msgid "Cross-Sells Columns"
+msgstr "עמודות קידום מכירות"
+
+#: inc/customizer/settings/woocommerce.php:125
+msgid "Cross-Sells Count"
+msgstr "כמות קידום מכירות"
+
+#: inc/customizer/settings/woocommerce.php:111
+msgid "Cart Page"
+msgstr "עמוד עגלת קניות"
+
+#: inc/customizer/settings/woocommerce.php:63
+msgid "Custom WooCommerce Sidebar"
+msgstr "סרגל צדדי WooCommerce מותאם אישית"
+
+#: inc/customizer/settings/woocommerce.php:49
+#: inc/customizer/settings/woocommerce.php:161
+#: inc/customizer/settings/woocommerce.php:576
+msgid "For some options, you must save and refresh your live site to preview changes."
+msgstr "עבור כמה אפשרויות, יש לשמור ולרענן את האתר כדי לקבל צפייה מקדימה לשינויים."
+
+#: inc/customizer/settings/woocommerce.php:40
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/customizer/settings/typography.php:603
+msgid "Font Color"
+msgstr "צבע גופן"
+
+#: inc/customizer/settings/typography.php:569
+msgid "Letter Spacing (px)"
+msgstr "מרווח אותיות (px)"
+
+#: inc/customizer/controls/typo/class-control-typo.php:61
+#: inc/customizer/settings/typography.php:525
+msgid "Line Height"
+msgstr "גובה שורה"
+
+#: inc/customizer/settings/typography.php:449
+#: inc/customizer/settings/woocommerce.php:1963
+msgid "None"
+msgstr "ללא"
+
+#: inc/customizer/controls/typo/class-control-typo.php:338
+#: inc/customizer/settings/typography.php:448
+msgid "Uppercase"
+msgstr "אותיות גדולות (לועזית בלבד)"
+
+#: inc/customizer/controls/typo/class-control-typo.php:337
+#: inc/customizer/settings/typography.php:447
+msgid "Lowercase"
+msgstr "אותיות קטנות (לועזית בלבד)"
+
+#: inc/customizer/controls/typo/class-control-typo.php:336
+#: inc/customizer/settings/typography.php:446
+msgid "Capitalize"
+msgstr "אותיות גדולות בתחילת כל מילה (לועזית בלבד)"
+
+#: inc/customizer/controls/typo/class-control-typo.php:60
+#: inc/customizer/settings/typography.php:438
+msgid "Text Transform"
+msgstr "המרת טקסט (לועזית בלבד)"
+
+#: inc/customizer/controls/typo/class-control-typo.php:321
+#: inc/customizer/settings/typography.php:420
+msgid "Italic"
+msgstr "נטוי"
+
+#: inc/customizer/controls/typo/class-control-typo.php:320
+#: inc/customizer/settings/typography.php:419
+msgid "Normal"
+msgstr "רגיל"
+
+#: inc/customizer/controls/typo/class-control-typo.php:59
+#: inc/customizer/settings/typography.php:411
+msgid "Font Style"
+msgstr "סגנון גופן"
+
+#: inc/customizer/controls/typo/class-control-typo.php:305
+#: inc/customizer/settings/typography.php:394
+msgid "Black: 900"
+msgstr "אולטרה מודגש: 900"
+
+#: inc/customizer/controls/typo/class-control-typo.php:304
+#: inc/customizer/settings/typography.php:393
+msgid "Extra Bold: 800"
+msgstr "אקסטרה מודגש: 800"
+
+#: inc/customizer/controls/typo/class-control-typo.php:303
+#: inc/customizer/settings/typography.php:392
+msgid "Bold: 700"
+msgstr "מודגש: 700"
+
+#: inc/customizer/controls/typo/class-control-typo.php:302
+#: inc/customizer/settings/typography.php:391
+msgid "Semibold: 600"
+msgstr "מודגש חלקית: 600"
+
+#: inc/customizer/controls/typo/class-control-typo.php:301
+#: inc/customizer/settings/typography.php:390
+msgid "Medium: 500"
+msgstr "בינוני: 500"
+
+#: inc/customizer/controls/typo/class-control-typo.php:300
+#: inc/customizer/settings/typography.php:389
+msgid "Normal: 400"
+msgstr "רגיל: 400"
+
+#: inc/customizer/controls/typo/class-control-typo.php:299
+#: inc/customizer/settings/typography.php:388
+msgid "Book: 300"
+msgstr "ספר: 300"
+
+#: inc/customizer/controls/typo/class-control-typo.php:298
+#: inc/customizer/settings/typography.php:387
+msgid "Light: 200"
+msgstr "עדין: 200"
+
+#: inc/customizer/controls/typo/class-control-typo.php:297
+#: inc/customizer/settings/typography.php:386
+msgid "Thin: 100"
+msgstr "דק: 100"
+
+#: inc/customizer/settings/typography.php:378
+msgid "Important: Not all fonts support every font-weight."
+msgstr "חשוב לדעת: לא כל הגופנים תומכים בכל סוגי המשקל."
+
+#: inc/customizer/controls/typo/class-control-typo.php:58
+#: inc/customizer/settings/typography.php:377
+msgid "Font Weight"
+msgstr "משקל גופן"
+
+#: inc/customizer/controls/typo/class-control-typo.php:56
+#: inc/customizer/settings/typography.php:355
+msgid "Font Family"
+msgstr "משפחת גופן"
+
+#: inc/customizer/settings/typography.php:279
+msgid "Font Subsets"
+msgstr "תת-סטים של גופן"
+
+#: inc/customizer/settings/typography.php:257
+msgid "Typography"
+msgstr "טיפוגרפיה"
+
+#: inc/customizer/settings/typography.php:227
+msgid "Footer Menu"
+msgstr "תפריט ניווט לתחתית האתר"
+
+#: inc/customizer/settings/typography.php:217
+msgid "Footer Copyright"
+msgstr "קרדיטים לתחתית האתר"
+
+#: inc/customizer/settings/typography.php:206
+msgid "Footer Widget Heading"
+msgstr "כותרת וידג׳ט בתחתית אתר"
+
+#: inc/customizer/settings/typography.php:195
+msgid "Sidebar Widget Heading"
+msgstr "כותרת וידג׳ט סרגל צדדי"
+
+#: inc/customizer/settings/typography.php:185
+msgid "Blog Post Title"
+msgstr "כותרת פוסט בבלוג"
+
+#: inc/customizer/settings/typography.php:176
+msgid "Blog Entry Title"
+msgstr "כותרת רשומה בבלוג"
+
+#: inc/customizer/settings/typography.php:157
+msgid "Page Title Subheading"
+msgstr "תת-כותרת עמוד"
+
+#: inc/customizer/settings/typography.php:128
+msgid "Main Menu: Dropdowns"
+msgstr "תפריט ניווט ראשי: תפריטים נפתחים"
+
+#: inc/customizer/settings/typography.php:119
+msgid "Main Menu"
+msgstr "תפריט ניווט ראשי"
+
+#: inc/customizer/settings/typography.php:91
+msgid "Heading 4 (H4)"
+msgstr "כותרת ברמה 4 (H4)"
+
+#: inc/customizer/settings/typography.php:82
+msgid "Heading 3 (H3)"
+msgstr "כותרת ברמה 3 (H3)"
+
+#: inc/customizer/settings/typography.php:73
+msgid "Heading 2 (H2)"
+msgstr "כותרת ברמה 2 (H2)"
+
+#: inc/customizer/settings/typography.php:64
+msgid "Heading 1 (H1)"
+msgstr "כותרת ברמה 1 (H1)"
+
+#: inc/customizer/settings/typography.php:55
+msgid "All Headings"
+msgstr "כל הכותרות"
+
+#: inc/customizer/settings/typography.php:46
+msgid "Body"
+msgstr "גוף האתר"
+
+#: inc/customizer/settings/topbar.php:529
+msgid "Social Links Color: Hover"
+msgstr "צבע קישורים חברתיים: מעבר עכבר"
+
+#: inc/customizer/settings/topbar.php:513
+msgid "Social Links Color"
+msgstr "צבע קישורים חברתיים"
+
+#: inc/customizer/settings/topbar.php:383
+msgid "Social Alternative"
+msgstr "חלופה חברתית"
+
+#: inc/customizer/settings/topbar.php:366
+msgid "Enable Social"
+msgstr "הפעלה של האייקונים החברתיים"
+
+#: inc/customizer/settings/topbar.php:352
+msgid "Social"
+msgstr "אייקונים החברתיים"
+
+#: inc/customizer/settings/topbar.php:306
+#: inc/customizer/settings/topbar.php:340 inc/helpers.php:2637
+#: inc/helpers.php:2722 inc/third/class-beaver-themer.php:127
+msgid "Content"
+msgstr "תוכן"
+
+#: inc/customizer/settings/topbar.php:129
+msgid "Centered Content & Social"
+msgstr "תוכן ממורכז ואייקונים החברתיים"
+
+#: inc/customizer/settings/topbar.php:128
+msgid "Left Social & Right Content"
+msgstr "אייקונים החברתיים משמאל ותוכן מימין"
+
+#: inc/customizer/settings/topbar.php:127
+msgid "Left Content & Right Social"
+msgstr "תוכן משמאל ואייקונים חברתיים מימין"
+
+#: inc/customizer/settings/topbar.php:79
+msgid "Top Bar Full Width"
+msgstr "בר עליון רוחב מלא"
+
+#: inc/customizer/settings/topbar.php:62
+msgid "Enable Top Bar"
+msgstr "הפעלת בר עליון"
+
+#: inc/customizer/settings/sidebar.php:300
+msgid "Titles Margin Bottom (px)"
+msgstr "שוליים חיצוניים תחתונים לכותרות (px)"
+
+#: inc/customizer/settings/sidebar.php:284
+msgid "Titles Border Color"
+msgstr "צבע מסגרת לכותרות"
+
+#: inc/customizer/settings/sidebar.php:262
+msgid "Margin Bottom (px)"
+msgstr "שוליים חיצוניים תחתונים (px)"
+
+#: inc/customizer/settings/sidebar.php:150
+msgid "Widgets"
+msgstr "וידג׳טים"
+
+#: inc/customizer/settings/header.php:3963
+msgid "Searchbar Button Color: Hover"
+msgstr "צבע כפתור תיבת חיפוש: מעבר עכבר"
+
+#: inc/customizer/settings/header.php:3946
+msgid "Searchbar Button Color"
+msgstr "צבע כפתור תיבת חיפוש"
+
+#: inc/customizer/settings/header.php:3930
+msgid "Searchbar Border Color: Focus"
+msgstr "צבע כפתור תיבת חיפוש: פוקוס"
+
+#: inc/customizer/settings/header.php:3897
+msgid "Searchbar Border Color"
+msgstr "צבע מסגרת כפתור תיבת חיפוש"
+
+#: inc/customizer/settings/header.php:3881
+msgid "Searchbar Color"
+msgstr "צבע תיבת חיפוש"
+
+#: inc/customizer/settings/header.php:3864
+msgid "Searchbar Background"
+msgstr "צבע רקע של תיבת החיפוש"
+
+#: inc/customizer/settings/header.php:3849
+msgid "Dropdowns Menus: Background"
+msgstr "תפריט נפתחים: רקע"
+
+#: inc/customizer/settings/header.php:3717
+msgid "Close Button Background"
+msgstr "צבע רקע כפתור סגירה"
+
+#: inc/customizer/settings/header.php:1594
+#: inc/customizer/settings/header.php:3673
+msgid "Link"
+msgstr "קישור"
+
+#: inc/customizer/settings/header.php:1593
+#: inc/customizer/settings/header.php:3672
+#: inc/customizer/settings/woocommerce.php:198
+msgid "Icon"
+msgstr "אייקון"
+
+#: inc/customizer/settings/header.php:1588
+#: inc/customizer/settings/header.php:3667
+msgid "Choose your opening target for your submenus"
+msgstr "יש לבחור את המטרה הנפתחת לתתי-תפריט הניווט"
+
+#: inc/customizer/settings/header.php:1587
+#: inc/customizer/settings/header.php:3666
+msgid "Dropdown Target"
+msgstr "מטרת תפריט נפתח"
+
+#: inc/customizer/settings/header.php:3649
+msgid "Close Menu Button Text"
+msgstr "טקסט לכפתור סגירת תפריט ניווט"
+
+#: inc/customizer/settings/header.php:3643 inc/helpers.php:3440
+#: partials/mobile/mobile-sidr-close.php:20
+msgid "Close Menu"
+msgstr "סגירת תפריט"
+
+#: inc/customizer/settings/header.php:3630
+msgid "Close Menu Button Icon Class"
+msgstr "ה-class של האייקון לכפתור סגירת תפריט הניווט"
+
+#: inc/customizer/settings/header.php:3687
+msgid "Mobile Menu Search"
+msgstr "חיפוש בתפריט ניווט למובייל"
+
+#: inc/customizer/settings/header.php:3612
+msgid "Close Menu Button"
+msgstr "כפתור סגירת תפריט"
+
+#: inc/customizer/settings/header.php:3595
+msgid "Displace"
+msgstr "לתפוס מקום"
+
+#: inc/customizer/settings/header.php:3552
+msgid "Direction"
+msgstr "כיוון"
+
+#: inc/customizer/settings/header.php:3489
+#: inc/customizer/settings/header.php:3631
+msgid "Enter the full icon class"
+msgstr "נא להזין את ה-class המלא של האייקון"
+
+#: inc/customizer/settings/header.php:3488
+msgid "Hamburger Icon Class"
+msgstr "Class של אייקון המבורגר"
+
+#: inc/customizer/settings/header.php:3453
+msgid "Menu Text"
+msgstr "טקסט תפריט ניווט"
+
+#: inc/customizer/settings/header.php:3436
+msgid "Display Menu Text"
+msgstr "טקסט הצגת תפריט ניווט"
+
+#: inc/customizer/settings/header.php:3283
+#: inc/customizer/settings/header.php:3538
+#: inc/customizer/settings/typography.php:138
+msgid "Mobile Menu"
+msgstr "תפריט ניווט מובייל"
+
+#: inc/customizer/settings/header.php:3001
+#: inc/customizer/settings/topbar.php:411
+msgid "Same Window"
+msgstr "באותו החלון"
+
+#: inc/customizer/settings/header.php:3000
+#: inc/customizer/settings/topbar.php:410
+msgid "New Window"
+msgstr "בחלון חדש"
+
+#: inc/customizer/settings/header.php:2993
+#: inc/customizer/settings/topbar.php:403
+msgid "Social Link Target"
+msgstr "קישור חברתי בחלון חדש או אותו החלון"
+
+#: inc/customizer/settings/header.php:2979
+msgid "Dark"
+msgstr "כהה"
+
+#: inc/customizer/settings/header.php:2977
+msgid "Colored"
+msgstr "צבוע"
+
+#: inc/customizer/settings/header.php:2976
+msgid "Simple"
+msgstr "פשוט"
+
+#: inc/customizer/settings/header.php:2969
+msgid "Social Link Style"
+msgstr "סגנון קישור חברתי"
+
+#: inc/customizer/settings/header.php:2910
+msgid "Posts Date: Color"
+msgstr "תאריך פוסטים: צבע"
+
+#: inc/customizer/settings/header.php:2894
+msgid "Posts Links Hover: Color"
+msgstr "תאריך פוסטים: צבע מעבר עכבר"
+
+#: inc/customizer/settings/header.php:2878
+msgid "Posts Links: Color"
+msgstr "קישורי פוסטים: צבע"
+
+#: inc/customizer/settings/header.php:2862
+msgid "Category Title: Color"
+msgstr "כותרת קטגוריה: צבע"
+
+#: inc/customizer/settings/header.php:2846
+msgid "Category Title: Background"
+msgstr "כותרת קטגוריה: צבע רקע"
+
+#: inc/customizer/settings/header.php:2831
+msgid "Dropdowns Categories Posts"
+msgstr "תפריטים נפתחים של קטגוריות פוסטים"
+
+#: inc/customizer/settings/header.php:2816
+msgid "Close Button Color"
+msgstr "צבע כפתור סגירה"
+
+#: inc/customizer/settings/header.php:2782
+msgid "Input Border Color: Hover"
+msgstr "נא להזין צבע מסגרת: מעבר עכבר"
+
+#: inc/customizer/settings/header.php:2731
+msgid "Input Placeholder Color"
+msgstr "נא להזין צבע מחזיק מקום"
+
+#: inc/customizer/settings/header.php:2697
+msgid "Overlay Background Color"
+msgstr "צבע רקע של שכבה"
+
+#: inc/customizer/settings/header.php:2680
+#: inc/customizer/settings/header.php:2799
+msgid "Input Border Color: Focus"
+msgstr "צבע רקע של שכבה: פוקוס"
+
+#: inc/customizer/settings/header.php:2663
+#: inc/customizer/settings/header.php:2765
+msgid "Input Border Color"
+msgstr "נא להזין צבע מסגרת"
+
+#: inc/customizer/settings/header.php:2616
+msgid "Overlay"
+msgstr "שכבה"
+
+#: inc/customizer/settings/header.php:2615
+msgid "Header Replace"
+msgstr "החלפת ראש אתר"
+
+#: inc/customizer/settings/header.php:2614
+#: inc/customizer/settings/header.php:3422
+msgid "Drop Down"
+msgstr "תפריט ניווט נפתח"
+
+#: inc/customizer/settings/header.php:2613
+#: inc/customizer/settings/woocommerce.php:197
+msgid "Disabled"
+msgstr "מבוטל"
+
+#: inc/customizer/settings/header.php:2607
+msgid "Search Icon Style"
+msgstr "סגנון אייקון חיפוש"
+
+#: inc/customizer/settings/header.php:2593
+msgid "Search Icon"
+msgstr "אייקון חיפוש"
+
+#: inc/customizer/settings/header.php:2483
+msgid "Top Border Color"
+msgstr "צבע מסגרת עליונה"
+
+#: inc/customizer/settings/header.php:1418
+#: inc/customizer/settings/header.php:2446
+msgid "Width (px)"
+msgstr "רוחב (px)"
+
+#: inc/customizer/settings/header.php:2431
+msgid "Dropdowns Styling"
+msgstr "סגנון תפריט נפתח"
+
+#: inc/customizer/settings/header.php:2417
+#: inc/customizer/settings/header.php:2577
+msgid "Link Background: Current Menu Item"
+msgstr "צבע רקע של קישור: תפריט ניווט נוכחי"
+
+#: inc/customizer/settings/header.php:2402
+#: inc/customizer/settings/header.php:2547
+msgid "Link Background: Hover"
+msgstr "צבע רקע של קישור: מעבר עכבר"
+
+#: inc/customizer/settings/header.php:2387
+msgid "Link Background"
+msgstr "צבע רקע של קישור"
+
+#: inc/customizer/settings/header.php:2372
+#: inc/customizer/settings/header.php:2562
+msgid "Link Color: Current Menu Item"
+msgstr "צבע קישור: תפריט ניווט נוכחי"
+
+#: inc/customizer/settings/header.php:2318
+msgid "Left/Right Padding (px)"
+msgstr "שוליים פנימיים ימין/שמאל (px)"
+
+#: inc/customizer/settings/header.php:2303
+msgid "Main Styling"
+msgstr "עיצוב ראשי"
+
+#: inc/customizer/settings/header.php:2203
+msgid "Dropdown Top Border"
+msgstr "מסגרת עליונה של תפריט ניווט נפתח"
+
+#: inc/customizer/settings/header.php:2186
+msgid "Second+ Level Dropdown Icon"
+msgstr "אייקון של תפריט ניווט נפתח ברמה 2+"
+
+#: inc/customizer/settings/header.php:2170
+msgid "Top Level Dropdown Icon"
+msgstr "אייקון של תפריט ניווט נפתח ברמה ראשונה"
+
+#: inc/customizer/settings/header.php:2050
+msgid "Max Width (px)"
+msgstr "רוחב מקסימלי (px)"
+
+#: inc/customizer/settings/header.php:1888
+msgid "Header Media"
+msgstr "מדיה של ראש האתר"
+
+#: inc/customizer/settings/header.php:1255
+msgid "Button Hover Color"
+msgstr "צבע כפתור: מעבר עכבר"
+
+#: inc/customizer/settings/header.php:1238
+#: inc/customizer/settings/header.php:1860
+msgid "Button Color"
+msgstr "צבע כפתור"
+
+#: inc/customizer/settings/header.php:1221
+msgid "Placeholder Color"
+msgstr "צבע שומר מקום"
+
+#: inc/customizer/settings/header.php:1187
+#: inc/customizer/settings/header.php:2629
+msgid "Input Background Color"
+msgstr "נא להזין צבע רקע"
+
+#: inc/customizer/settings/header.php:1127
+msgid "Menu Items Padding (px)"
+msgstr "שוליים פנימיים של פריטי תפריט הניווט"
+
+#: inc/customizer/settings/header.php:1044
+#: inc/customizer/settings/header.php:2138
+#: inc/customizer/settings/header.php:3447 inc/helpers.php:3438
+#: partials/mobile/mobile-icon.php:32
+msgid "Menu"
+msgstr "תפריט ניווט"
+
+#: inc/customizer/settings/header.php:1017
+msgid "If you use the sticky header extension"
+msgstr "אם את/ה עושה שימוש בהרחבת ראש האתר הדביק"
+
+#: inc/customizer/settings/header.php:1016
+msgid "Sticky Padding (px)"
+msgstr "שוליים פנימיים של ראש אתר דביק (px)"
+
+#: inc/customizer/settings/header.php:926
+msgid "Social Buttons"
+msgstr "כפתורים חברתיים"
+
+#: inc/customizer/settings/header.php:924
+#: inc/customizer/settings/header.php:1171
+#: inc/customizer/settings/header.php:1708
+msgid "Search Form"
+msgstr "טופס חיפוש"
+
+#: inc/customizer/settings/header.php:887
+msgid "Top Header"
+msgstr "ראש אתר עליון"
+
+#: inc/customizer/settings/header.php:854
+msgid "Hide Menu When Scrolling"
+msgstr "הסרת תפריט הניווט בעת גלילה מטה"
+
+#: inc/customizer/settings/header.php:734
+msgid "Input Focus Border Bottom Color"
+msgstr "נא להזין צבע מסגרת תחתונה: פוקוס"
+
+#: inc/customizer/settings/header.php:717
+msgid "Input Hover Border Bottom Color"
+msgstr "נא להזין צבע מסגרת תחתונה: מעבר עכבר"
+
+#: inc/customizer/settings/header.php:700
+msgid "Input Border Bottom Color"
+msgstr "נא להזין צבע מסגרת תחתונה"
+
+#: inc/customizer/settings/header.php:683
+#: inc/customizer/settings/header.php:2748
+msgid "Input Dashed Text Color"
+msgstr "נא להזין צבע טקסט מקווקו"
+
+#: inc/customizer/settings/header.php:666
+#: inc/customizer/settings/header.php:1204
+#: inc/customizer/settings/header.php:2646
+#: inc/customizer/settings/header.php:2714
+msgid "Input Color"
+msgstr "נא להזין צבע"
+
+#: inc/customizer/settings/header.php:650
+msgid "Search Styling"
+msgstr "סגנון חיפוש"
+
+#: inc/customizer/settings/header.php:635
+msgid "Links Hover Color"
+msgstr "צבע מעבר מעל קישורים"
+
+#: inc/customizer/settings/header.php:601
+msgid "Links Hover Background Color"
+msgstr "צבע רקע לקישורים במעבר עכבר"
+
+#: inc/customizer/settings/header.php:585
+#: inc/customizer/settings/header.php:3816
+msgid "Links Background Color"
+msgstr "צבע רקע לקישורים"
+
+#: inc/customizer/settings/header.php:552
+msgid "Menu Bar Close Color"
+msgstr "צבע כפתור סגירה של בר הניווט"
+
+#: inc/customizer/settings/header.php:535
+msgid "Menu Bar Color"
+msgstr "צבע בר הניווט"
+
+#: inc/customizer/settings/header.php:519
+msgid "Styling"
+msgstr "סגנון"
+
+#: inc/customizer/settings/header.php:487
+msgid "Select a custom logo when the menu is opened."
+msgstr "נא לבחור לוגו מותאם אישית כאשר התפריט פתוח."
+
+#: inc/customizer/settings/header.php:486
+#: inc/customizer/settings/header.php:3344
+msgid "Logo (optional)"
+msgstr "לוגו (אופציונלי)"
+
+#: inc/customizer/settings/header.php:439
+msgid "Search Button Color: Hover"
+msgstr "צבע כפתור חיפוש: מעבר עכבר"
+
+#: inc/customizer/settings/header.php:422
+msgid "Search Button Color"
+msgstr "צבע כפתור חיפוש"
+
+#: inc/customizer/settings/header.php:405
+msgid "Search Button Border Color"
+msgstr "צבע מסגרת כפתור חיפוש"
+
+#: inc/customizer/settings/header.php:388
+msgid "Menu Background Color"
+msgstr "צבע רקע של תפריט הניווט"
+
+#: inc/customizer/settings/header.php:374
+msgid "After The Logo"
+msgstr "אחרי הלוגו"
+
+#: inc/customizer/settings/header.php:373
+msgid "Before The Logo"
+msgstr "לפני הלוגו"
+
+#: inc/customizer/settings/header.php:366
+msgid "Menu Position"
+msgstr "מיקום תפריט ניווט"
+
+#: inc/customizer/settings/header.php:2025
+msgid "Retina Logo"
+msgstr "לוגו לתצוגת רטינה"
+
+#: inc/customizer/settings/header.php:925
+#: inc/customizer/settings/header.php:2011
+#: inc/customizer/settings/typography.php:100
+msgid "Logo"
+msgstr "לוגו"
+
+#: inc/customizer/settings/header.php:223
+msgid "Border Bottom Color"
+msgstr "צבע מסגרת תחתונה"
+
+#: inc/customizer/settings/header.php:189
+msgid "Header Border Bottom"
+msgstr "מסגרת תחתונה של ראש  האתר"
+
+#: inc/customizer/settings/header.php:171
+msgid "Header Full Width"
+msgstr "רוחב ראש האתר"
+
+#: inc/customizer/settings/footer-widgets.php:190
+#: inc/customizer/settings/header.php:109
+msgid "Add Container"
+msgstr "הוסף תכולה"
+
+#: inc/customizer/settings/header.php:76
+msgid "Custom Header"
+msgstr "ראש אתר מותאם אישית"
+
+#: inc/customizer/settings/header.php:72
+#: inc/customizer/settings/header.php:3423
+msgid "Full Screen"
+msgstr "מסך מלא"
+
+#: inc/customizer/settings/header.php:71
+msgid "Top Menu"
+msgstr "תפריט ניווט עליון"
+
+#: inc/customizer/settings/header.php:70
+msgid "Transparent"
+msgstr "שקוף"
+
+#: inc/customizer/settings/header.php:69
+#: inc/customizer/settings/header.php:2978
+msgid "Minimal"
+msgstr "מינימלי"
+
+#: inc/customizer/settings/header.php:49 inc/customizer/settings/topbar.php:48
+#: inc/customizer/settings/typography.php:265
+#: inc/customizer/settings/woocommerce.php:48
+msgid "General"
+msgstr "כללי"
+
+#: inc/customizer/settings/header.php:41 inc/third/class-beaver-themer.php:109
+msgid "Header"
+msgstr "ראש אתר"
+
+#: inc/customizer/settings/general.php:1972
+msgid "Theme Buttons"
+msgstr "עיצוב התבנית לכפתורים"
+
+#: inc/customizer/settings/general.php:1931
+#: inc/customizer/settings/header.php:1843
+msgid "Border Color: Focus"
+msgstr "צבע מסגרת: פוקוס"
+
+#: inc/customizer/settings/general.php:1691
+msgid "Label Color"
+msgstr "צבע תווית"
+
+#: inc/customizer/settings/general.php:1676
+msgid "Forms (Input - Textarea)"
+msgstr "טפסים (תיבות טקסט)"
+
+#: inc/customizer/settings/general.php:1666
+#: inc/customizer/settings/header.php:1827
+msgid "Border Color: Hover"
+msgstr "צבע מסגרת: מעבר עכבר"
+
+#: inc/customizer/settings/general.php:1650
+#: inc/customizer/settings/general.php:1915
+#: inc/customizer/settings/header.php:1811
+#: inc/customizer/settings/topbar.php:244
+#: inc/customizer/settings/woocommerce.php:1738
+msgid "Border Color"
+msgstr "צבע מסגרת"
+
+#: inc/customizer/settings/general.php:1566
+#: inc/customizer/settings/general.php:1860
+#: inc/customizer/settings/woocommerce.php:1611
+msgid "Border Width (px)"
+msgstr "רוחב מסגרת (px)"
+
+#: inc/customizer/settings/general.php:1545
+#: inc/customizer/settings/general.php:1790
+#: inc/customizer/settings/header.php:3024
+#: inc/customizer/settings/topbar.php:435
+#: inc/customizer/settings/typography.php:481
+msgid "Font Size (px)"
+msgstr "גודל גופן (px)"
+
+#: inc/customizer/settings/blog.php:321 inc/customizer/settings/blog.php:752
+#: inc/customizer/settings/general.php:955
+#: inc/customizer/settings/general.php:1530
+#: inc/customizer/settings/header.php:73
+#: inc/customizer/settings/header.php:1066
+#: inc/customizer/settings/header.php:1550
+#: inc/customizer/settings/header.php:2226
+#: inc/customizer/settings/woocommerce.php:1082
+msgid "Center"
+msgstr "ממורכז"
+
+#: inc/customizer/settings/general.php:1523
+msgid "Align"
+msgstr "יישור"
+
+#: inc/customizer/settings/general.php:1508
+msgid "Pagination"
+msgstr "דפדוף"
+
+#: inc/customizer/settings/general.php:1463
+#: inc/customizer/settings/general.php:1602
+#: inc/customizer/settings/general.php:2107
+msgid "Background Color: Hover"
+msgstr "צבע רקע: מעבר עכבר"
+
+#: inc/customizer/settings/general.php:1424
+#: inc/customizer/settings/general.php:1894
+#: inc/customizer/settings/general.php:2070
+#: inc/customizer/settings/woocommerce.php:1690
+msgid "Border Radius (px)"
+msgstr "רדיוס פינות מעוגלות (px)"
+
+#: inc/customizer/settings/general.php:1402
+#: inc/customizer/settings/woocommerce.php:296
+msgid "Icon Size (px)"
+msgstr "גודל אייקון (px)"
+
+#: inc/customizer/settings/general.php:1380
+msgid "Button Size (px)"
+msgstr "גודל כפתור (px)"
+
+#: inc/customizer/settings/general.php:1362
+msgid "Arrow Icon"
+msgstr "אייקון חץ"
+
+#: inc/customizer/settings/general.php:1345
+msgid "Scroll Up Button"
+msgstr "כפתור גלילה מעלה"
+
+#: inc/customizer/settings/general.php:1331
+msgid "Scroll To Top"
+msgstr "גלילה מעלה"
+
+#: inc/customizer/settings/general.php:1320
+#: inc/customizer/settings/header.php:2356
+#: inc/customizer/settings/header.php:2531
+#: inc/customizer/settings/topbar.php:295
+#: inc/customizer/settings/woocommerce.php:421
+msgid "Link Color: Hover"
+msgstr "צבע קישור: מעבר עכבר"
+
+#: inc/customizer/settings/general.php:1303
+#: inc/customizer/settings/header.php:2340
+#: inc/customizer/settings/header.php:2515
+#: inc/customizer/settings/topbar.php:278
+#: inc/customizer/settings/woocommerce.php:405
+msgid "Link Color"
+msgstr "צבע קישור"
+
+#: inc/customizer/settings/general.php:1286
+msgid "Separator Color"
+msgstr "צבע מפריד"
+
+#: inc/customizer/settings/general.php:1255
+msgid "Under Title"
+msgstr "מתחת לכותרת"
+
+#: inc/customizer/settings/general.php:1254
+msgid "Absolute Right"
+msgstr "ימין אבסולוטי"
+
+#: inc/customizer/settings/general.php:1217
+#: inc/customizer/settings/general.php:1231
+#: inc/customizer/settings/typography.php:167
+msgid "Breadcrumbs"
+msgstr "פירורי לחם"
+
+#: inc/customizer/settings/general.php:1073
+#: inc/customizer/settings/header.php:127
+#: inc/customizer/settings/header.php:149
+#: inc/customizer/settings/header.php:1082
+#: inc/customizer/settings/header.php:3323
+msgid "Height (px)"
+msgstr "גובה (px)"
+
+#: inc/customizer/settings/general.php:932
+#: inc/customizer/settings/woocommerce.php:849
+msgid "Image"
+msgstr "תמונה"
+
+#: inc/customizer/settings/general.php:920
+msgid "Hidden"
+msgstr "חבוי"
+
+#: inc/customizer/settings/general.php:918
+msgid "Centered Minimal"
+msgstr "ממורכז מינימלי"
+
+#: inc/customizer/settings/general.php:917
+msgid "Centered"
+msgstr "ממורכז"
+
+#: inc/customizer/settings/general.php:910
+#: inc/customizer/settings/header.php:63 inc/customizer/settings/topbar.php:120
+#: inc/customizer/settings/woocommerce.php:215
+msgid "Style"
+msgstr "סגנון"
+
+#: inc/customizer/settings/general.php:846
+#: inc/customizer/settings/typography.php:147
+msgid "Page Title"
+msgstr "כותרת עמוד"
+
+#: inc/customizer/settings/general.php:2149
+msgid "404 Error Page"
+msgstr "דף שגיאה 404"
+
+#: inc/customizer/settings/general.php:753
+msgid "Custom Sidebar"
+msgstr "סרגל צדדי מותאם אישית"
+
+#: inc/customizer/settings/general.php:704
+msgid "Search Result Page"
+msgstr "עמוד תוצאות חיפוש"
+
+#: inc/customizer/settings/general.php:678
+msgid "Content Padding (px)"
+msgstr "שוליים פנימיים של התוכן (px)"
+
+#: inc/customizer/settings/general.php:560
+msgid "Pages"
+msgstr "עמודים"
+
+#: inc/customizer/settings/general.php:525
+msgid "Sidebar Width (%)"
+msgstr "רוחב סרגל צדדי (%)"
+
+#: inc/customizer/settings/general.php:504
+msgid "Content Width (%)"
+msgstr "רוחב תוכן (%)"
+
+#: inc/customizer/settings/general.php:482
+msgid "Main Container Width (px)"
+msgstr "רוחב איזור התכולה (px)"
+
+#: inc/customizer/settings/general.php:427
+msgid "Inner Background"
+msgstr "רקע פנימי"
+
+#: inc/customizer/settings/general.php:393
+#: inc/customizer/settings/general.php:410
+msgid "Outside Background"
+msgstr "רקע חיצוני"
+
+#: inc/customizer/settings/general.php:371
+msgid "Boxed Width (px)"
+msgstr "רוחב איזור תחום (px)"
+
+#: inc/customizer/settings/general.php:353
+msgid "Boxed Layout Drop-Shadow"
+msgstr "הצללה סביב פריסת האיזור התחום"
+
+#: inc/customizer/settings/general.php:338
+msgid "Boxed"
+msgstr "תחומה"
+
+#: inc/customizer/settings/general.php:337
+msgid "Wide"
+msgstr "רחבה"
+
+#: inc/customizer/settings/general.php:332
+msgid "Layout Style"
+msgstr "סגנון פריסה"
+
+#: inc/customizer/settings/general.php:318
+#: inc/customizer/settings/header.php:3380
+msgid "General Settings"
+msgstr "הגדרות כלליות"
+
+#: inc/customizer/settings/general.php:308
+#: inc/customizer/settings/general.php:1497
+#: inc/customizer/settings/general.php:1634
+#: inc/customizer/settings/general.php:2139
+#: inc/customizer/settings/header.php:2127
+msgid "Color: Hover"
+msgstr "צבע: מעבר עכבר"
+
+#: inc/customizer/settings/general.php:292
+#: inc/customizer/settings/general.php:1480
+#: inc/customizer/settings/general.php:1618
+#: inc/customizer/settings/general.php:1962
+#: inc/customizer/settings/general.php:2123
+#: inc/customizer/settings/header.php:1794
+#: inc/customizer/settings/header.php:2110
+msgid "Color"
+msgstr "צבע"
+
+#: inc/customizer/settings/general.php:161
+#: inc/customizer/settings/general.php:919
+msgid "Background Image"
+msgstr "תמונת רקע"
+
+#: inc/customizer/settings/general.php:131
+msgid "Site Background"
+msgstr "רקע אתר"
+
+#: inc/customizer/settings/general.php:117
+msgid "Main Border Color"
+msgstr "צבע מסגרת ראשי"
+
+#: inc/customizer/settings/general.php:101
+msgid "Hover Primary Color"
+msgstr "צבע מעבר עכבר ראשי"
+
+#: inc/customizer/settings/general.php:85
+msgid "Primary Color"
+msgstr "צבע ראשי"
+
+#: inc/customizer/settings/general.php:48
+msgid "General Styling"
+msgstr "סגנון כללי"
+
+#: inc/customizer/settings/general.php:40
+msgid "General Options"
+msgstr "הגדרות כלליות"
+
+#: inc/customizer/settings/footer-widgets.php:326
+#: inc/customizer/settings/header.php:2499
+#: inc/customizer/settings/header.php:3768
+#: inc/customizer/settings/woocommerce.php:2294
+#: inc/customizer/settings/woocommerce.php:2624
+msgid "Borders Color"
+msgstr "צבע מסגרות"
+
+#: inc/customizer/settings/footer-widgets.php:164
+msgid "Columns"
+msgstr "עמודות"
+
+#: inc/customizer/settings/footer-widgets.php:100
+#: inc/customizer/settings/footer-widgets.php:121
+#: inc/customizer/settings/general.php:2170
+msgid "Off"
+msgstr "כבוי"
+
+#: inc/customizer/settings/footer-widgets.php:99
+#: inc/customizer/settings/footer-widgets.php:120
+#: inc/customizer/settings/general.php:2169
+msgid "On"
+msgstr "מופעל"
+
+#: inc/customizer/settings/footer-widgets.php:94
+msgid "This option add a height to your content to keep your footer at the bottom of your page."
+msgstr "אפשרות זו מוסיפה גובה לתוכן שלך כדי לשמור על תחתית האתר בתחתית העמוד שלך."
+
+#: inc/customizer/settings/footer-widgets.php:93
+msgid "Fixed Footer"
+msgstr "תחתית אתר דביקה"
+
+#: inc/customizer/settings/footer-widgets.php:53
+msgid "Enable Footer Widgets"
+msgstr "הפעלת וידג׳טים של תחתית האתר"
+
+#: inc/customizer/settings/footer-widgets.php:40
+msgid "Footer Widgets"
+msgstr "וידג׳טים של תחתית האתר"
+
+#: inc/customizer/settings/footer-bottom.php:247
+#: inc/customizer/settings/footer-widgets.php:360
+#: inc/customizer/settings/header.php:3801
+msgid "Links Color: Hover"
+msgstr "צבע קישורים: מעבר עכבר"
+
+#: inc/customizer/settings/footer-bottom.php:230
+#: inc/customizer/settings/footer-widgets.php:343
+#: inc/customizer/settings/general.php:277
+#: inc/customizer/settings/header.php:618
+#: inc/customizer/settings/header.php:3785
+msgid "Links Color"
+msgstr "צבע קישורים"
+
+#: inc/customizer/settings/footer-bottom.php:213
+#: inc/customizer/settings/footer-widgets.php:309
+#: inc/customizer/settings/general.php:1202
+#: inc/customizer/settings/general.php:1269
+#: inc/customizer/settings/topbar.php:261
+#: inc/customizer/settings/woocommerce.php:2310
+msgid "Text Color"
+msgstr "צבע טקסט"
+
+#: inc/customizer/settings/footer-bottom.php:196
+#: inc/customizer/settings/footer-widgets.php:292
+#: inc/customizer/settings/general.php:146
+#: inc/customizer/settings/general.php:1185
+#: inc/customizer/settings/general.php:1446
+#: inc/customizer/settings/general.php:1586
+#: inc/customizer/settings/general.php:1946
+#: inc/customizer/settings/general.php:2091
+#: inc/customizer/settings/header.php:206
+#: inc/customizer/settings/header.php:336
+#: inc/customizer/settings/header.php:569
+#: inc/customizer/settings/header.php:903
+#: inc/customizer/settings/header.php:1156
+#: inc/customizer/settings/header.php:1777
+#: inc/customizer/settings/header.php:2467
+#: inc/customizer/settings/header.php:3734
+#: inc/customizer/settings/header.php:3751
+#: inc/customizer/settings/sidebar.php:53
+#: inc/customizer/settings/sidebar.php:164
+#: inc/customizer/settings/topbar.php:227
+#: inc/customizer/settings/woocommerce.php:1723
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: inc/customizer/settings/footer-bottom.php:161
+#: inc/customizer/settings/footer-widgets.php:257
+#: inc/customizer/settings/general.php:1157
+#: inc/customizer/settings/general.php:1756
+#: inc/customizer/settings/general.php:2036
+#: inc/customizer/settings/header.php:288
+#: inc/customizer/settings/header.php:964
+#: inc/customizer/settings/header.php:3095
+#: inc/customizer/settings/sidebar.php:118
+#: inc/customizer/settings/sidebar.php:229
+#: inc/customizer/settings/topbar.php:192
+#: inc/customizer/settings/topbar.php:484
+#: inc/customizer/settings/woocommerce.php:1532
+msgid "Padding (px)"
+msgstr "שוליים פנימיים (px)"
+
+#: inc/customizer/settings/footer-bottom.php:95
+#: inc/customizer/settings/topbar.php:341
+msgid "Shortcodes allowed, %1$ssee the list%2$s."
+msgstr "ניתן לעשות שימוש בקודים קצרים, %1$sהרשימה כאן%2$s."
+
+#: inc/customizer/settings/footer-bottom.php:94
+msgid "Copyright"
+msgstr "איזור קרדיטים"
+
+#: inc/customizer/settings/footer-bottom.php:80
+#: inc/customizer/settings/footer-widgets.php:80
+#: inc/customizer/settings/general.php:870
+#: inc/customizer/settings/topbar.php:107
+msgid "Hide On Tablet & Mobile"
+msgstr "להסתיר בטבלטים ומובייל"
+
+#: inc/customizer/settings/footer-bottom.php:79
+#: inc/customizer/settings/footer-widgets.php:79
+#: inc/customizer/settings/general.php:869
+#: inc/customizer/settings/topbar.php:106
+msgid "Hide On Mobile"
+msgstr "להסתיר במובייל"
+
+#: inc/customizer/settings/footer-bottom.php:78
+#: inc/customizer/settings/footer-widgets.php:78
+#: inc/customizer/settings/general.php:868
+#: inc/customizer/settings/topbar.php:105
+msgid "Hide On Tablet"
+msgstr "להסתיר בטבלטים"
+
+#: inc/customizer/settings/footer-bottom.php:77
+#: inc/customizer/settings/footer-widgets.php:77
+#: inc/customizer/settings/general.php:867
+#: inc/customizer/settings/topbar.php:104
+msgid "Show On All Devices"
+msgstr "להציג בכל המכשירים"
+
+#: inc/customizer/settings/footer-bottom.php:70
+#: inc/customizer/settings/footer-widgets.php:70
+#: inc/customizer/settings/general.php:861
+#: inc/customizer/settings/topbar.php:97
+msgid "Visibility"
+msgstr "נראות"
+
+#: inc/customizer/settings/footer-bottom.php:53
+msgid "Enable Footer Bottom"
+msgstr "הפעלת איזור הקרדיטים"
+
+#: inc/customizer/settings/footer-bottom.php:40
+msgid "Footer Bottom"
+msgstr "איזור הקרדיטים"
+
+#: inc/customizer/settings/blog.php:1085
+msgid "Related Posts Image Height (px)"
+msgstr "גובה תמונת פוסטים קשורים (px)"
+
+#: inc/customizer/settings/blog.php:1066
+msgid "Related Posts Image Width (px)"
+msgstr "רוחב תמונת פוסטים קשורים (px)"
+
+#: inc/customizer/settings/blog.php:1028
+msgid "Related Posts Columns"
+msgstr "עמודות פוסטים קשורים"
+
+#: inc/customizer/settings/blog.php:1008
+msgid "Related Posts Count"
+msgstr "מספר פוסטים קשורים"
+
+#: inc/customizer/settings/blog.php:914
+#: inc/customizer/settings/general.php:1117
+#: inc/customizer/settings/header.php:1903
+msgid "Overlay Color"
+msgstr "צבע שכבה"
+
+#: inc/customizer/settings/blog.php:892
+#: inc/customizer/settings/general.php:1095
+msgid "Overlay Opacity"
+msgstr "אטימות שכבה"
+
+#: inc/customizer/settings/blog.php:870
+msgid "Page Header Height (px)"
+msgstr "גובה ראש עמוד (px)"
+
+#: inc/customizer/settings/blog.php:856 inc/customizer/settings/general.php:265
+#: inc/customizer/settings/general.php:1059
+#: inc/customizer/settings/header.php:2003
+msgid "Contain"
+msgstr "מכיל"
+
+#: inc/customizer/settings/blog.php:855 inc/customizer/settings/general.php:264
+#: inc/customizer/settings/general.php:1058
+#: inc/customizer/settings/header.php:2002
+msgid "Cover"
+msgstr "מכסה"
+
+#: inc/customizer/settings/blog.php:854 inc/customizer/settings/general.php:263
+#: inc/customizer/settings/general.php:1057
+#: inc/customizer/settings/header.php:2001
+msgid "Auto"
+msgstr "אוטומטי"
+
+#: inc/customizer/settings/blog.php:846 inc/customizer/settings/general.php:255
+#: inc/customizer/settings/general.php:1049
+#: inc/customizer/settings/header.php:1994
+msgid "Size"
+msgstr "גודל"
+
+#: inc/customizer/settings/blog.php:832 inc/customizer/settings/general.php:241
+#: inc/customizer/settings/general.php:1035
+#: inc/customizer/settings/header.php:1980
+msgid "Repeat-y"
+msgstr "חזרה על ציר y"
+
+#: inc/customizer/settings/blog.php:831 inc/customizer/settings/general.php:240
+#: inc/customizer/settings/general.php:1034
+#: inc/customizer/settings/header.php:1979
+msgid "Repeat-x"
+msgstr "חזרה  על ציר x"
+
+#: inc/customizer/settings/blog.php:829 inc/customizer/settings/general.php:238
+#: inc/customizer/settings/general.php:1032
+#: inc/customizer/settings/header.php:1977
+msgid "No-repeat"
+msgstr "ללא חזרה"
+
+#: inc/customizer/settings/blog.php:821 inc/customizer/settings/blog.php:830
+#: inc/customizer/settings/general.php:230
+#: inc/customizer/settings/general.php:239
+#: inc/customizer/settings/general.php:1024
+#: inc/customizer/settings/general.php:1033
+#: inc/customizer/settings/header.php:1970
+#: inc/customizer/settings/header.php:1978
+msgid "Repeat"
+msgstr "חזרה "
+
+#: inc/customizer/settings/blog.php:807 inc/customizer/settings/general.php:216
+#: inc/customizer/settings/general.php:1010
+#: inc/customizer/settings/header.php:1956
+msgid "Fixed"
+msgstr "קבוע"
+
+#: inc/customizer/settings/blog.php:806 inc/customizer/settings/general.php:215
+#: inc/customizer/settings/general.php:1009
+#: inc/customizer/settings/header.php:1955
+msgid "Scroll"
+msgstr "גלילה"
+
+#: inc/customizer/settings/blog.php:798 inc/customizer/settings/general.php:207
+#: inc/customizer/settings/general.php:1001
+#: inc/customizer/settings/header.php:1948
+msgid "Attachment"
+msgstr "קובץ מצורף"
+
+#: inc/customizer/settings/blog.php:784 inc/customizer/settings/general.php:193
+#: inc/customizer/settings/general.php:987
+#: inc/customizer/settings/header.php:1934
+msgid "Bottom Right"
+msgstr "בתחתית ימינה"
+
+#: inc/customizer/settings/blog.php:783 inc/customizer/settings/general.php:192
+#: inc/customizer/settings/general.php:986
+#: inc/customizer/settings/header.php:1933
+msgid "Bottom Center"
+msgstr "בתחתית מרכז"
+
+#: inc/customizer/settings/blog.php:782 inc/customizer/settings/general.php:191
+#: inc/customizer/settings/general.php:985
+#: inc/customizer/settings/header.php:1932
+msgid "Bottom Left"
+msgstr "בתחתית שמאלה"
+
+#: inc/customizer/settings/blog.php:781 inc/customizer/settings/general.php:190
+#: inc/customizer/settings/general.php:984
+#: inc/customizer/settings/header.php:1931
+msgid "Center Right"
+msgstr "באמצע ימינה"
+
+#: inc/customizer/settings/blog.php:780 inc/customizer/settings/general.php:189
+#: inc/customizer/settings/general.php:983
+#: inc/customizer/settings/header.php:1930
+msgid "Center Center"
+msgstr "באמצע מרכז"
+
+#: inc/customizer/settings/blog.php:779 inc/customizer/settings/general.php:188
+#: inc/customizer/settings/general.php:982
+#: inc/customizer/settings/header.php:1929
+msgid "Center Left"
+msgstr "באמצע שמאלה"
+
+#: inc/customizer/settings/blog.php:778 inc/customizer/settings/general.php:187
+#: inc/customizer/settings/general.php:981
+#: inc/customizer/settings/header.php:1928
+msgid "Top Right"
+msgstr "למעלה מימין"
+
+#: inc/customizer/settings/blog.php:777 inc/customizer/settings/general.php:186
+#: inc/customizer/settings/general.php:980
+#: inc/customizer/settings/header.php:1927
+msgid "Top Center"
+msgstr "למעלה באמצע"
+
+#: inc/customizer/settings/blog.php:776 inc/customizer/settings/general.php:185
+#: inc/customizer/settings/general.php:979
+#: inc/customizer/settings/header.php:1926
+msgid "Top Left"
+msgstr "למעלה שמאלה"
+
+#: inc/customizer/settings/blog.php:768 inc/customizer/settings/general.php:177
+#: inc/customizer/settings/general.php:971
+#: inc/customizer/settings/general.php:1247
+#: inc/customizer/settings/header.php:1060
+#: inc/customizer/settings/header.php:1523
+#: inc/customizer/settings/header.php:1919
+#: inc/customizer/settings/header.php:2220
+msgid "Position"
+msgstr "מיקום"
+
+#: inc/customizer/settings/blog.php:729
+msgid "Featured Image In Page Header"
+msgstr "תמונה ראשית בראש העמוד"
+
+#: inc/customizer/settings/blog.php:716
+msgid "Post Title"
+msgstr "כותרת פוסט"
+
+#: inc/customizer/settings/blog.php:709
+msgid "Page Header Title"
+msgstr "כותרת ראש עמוד"
+
+#: inc/customizer/settings/blog.php:600 inc/customizer/settings/general.php:574
+#: inc/customizer/settings/general.php:769
+#: inc/customizer/settings/general.php:2183
+#: inc/customizer/settings/woocommerce.php:590
+#: inc/customizer/settings/woocommerce.php:970
+msgid "Layout"
+msgstr "פריסה"
+
+#: inc/customizer/settings/blog.php:586
+msgid "Single Post"
+msgstr "פוסט בודד"
+
+#: inc/customizer/settings/blog.php:577 inc/customizer/settings/blog.php:976
+#: inc/helpers.php:2728
+msgid "Comments"
+msgstr "תגובות"
+
+#: inc/customizer/settings/blog.php:576 inc/customizer/settings/blog.php:975
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: inc/customizer/settings/blog.php:575 inc/customizer/settings/blog.php:974
+msgid "Date"
+msgstr "תאריך"
+
+#: inc/customizer/settings/blog.php:574 inc/customizer/settings/blog.php:973
+msgid "Author"
+msgstr "מחבר/ת"
+
+#: inc/customizer/settings/blog.php:569 inc/customizer/settings/blog.php:968
+#: inc/helpers.php:2636 inc/helpers.php:2721
+msgid "Meta"
+msgstr "מטא"
+
+#: inc/customizer/settings/blog.php:552 inc/customizer/settings/blog.php:952
+#: inc/customizer/settings/header.php:919
+#: inc/customizer/settings/woocommerce.php:844
+msgid "Elements Positioning"
+msgstr "מיקום אלמנטים"
+
+#: inc/customizer/settings/blog.php:486
+msgid "Next/Prev"
+msgstr "קודם/הבא"
+
+#: inc/customizer/settings/blog.php:485
+#: inc/customizer/settings/woocommerce.php:895
+msgid "Infinite Scroll"
+msgstr "גלילה אינסופית"
+
+#: inc/customizer/settings/blog.php:484
+#: inc/customizer/settings/woocommerce.php:894
+msgid "Standard"
+msgstr "רגיל"
+
+#: inc/customizer/settings/blog.php:478
+msgid "Blog Pagination Style"
+msgstr "סגנון דפדוף עמודים בבלוג"
+
+#: inc/customizer/settings/blog.php:457
+#: inc/customizer/settings/woocommerce.php:777
+msgid "Excerpt Length"
+msgstr "אורך התקציר"
+
+#: inc/customizer/settings/blog.php:277
+msgid "Equal Heights"
+msgstr "גבהים זהים"
+
+#: inc/customizer/settings/blog.php:264
+msgid "Masonry"
+msgstr "לבנים"
+
+#: inc/customizer/settings/blog.php:263
+msgid "Fit Rows"
+msgstr "התאמת עמודות"
+
+#: inc/customizer/settings/blog.php:256
+msgid "Grid Style"
+msgstr "סגנון גריד"
+
+#: inc/customizer/settings/blog.php:232
+msgid "Grid Columns"
+msgstr "עמודות גריד"
+
+#: inc/customizer/settings/blog.php:219
+msgid "Large"
+msgstr "גדול"
+
+#: inc/customizer/settings/blog.php:218
+msgid "Medium Large"
+msgstr "בינוני גדול"
+
+#: inc/customizer/settings/blog.php:217 inc/customizer/settings/header.php:74
+msgid "Medium"
+msgstr "בינוני"
+
+#: inc/customizer/settings/blog.php:196 inc/customizer/settings/blog.php:216
+msgid "Thumbnail"
+msgstr "תמונה ממוזערת"
+
+#: inc/customizer/settings/blog.php:209
+msgid "Images Size"
+msgstr "גודל תמונה"
+
+#: inc/customizer/settings/blog.php:195
+msgid "Grid"
+msgstr "גריד"
+
+#: inc/customizer/settings/blog.php:194
+msgid "Large Image"
+msgstr "תמונה גדולה"
+
+#: inc/customizer/settings/blog.php:188
+msgid "Blog Style"
+msgstr "סגנון הבלוג"
+
+#: inc/customizer/settings/blog.php:172
+msgid "Add Overlay On image Hover"
+msgstr "הוספת אפקט כיסוי במעבר עכבר מעל התמונה"
+
+#: inc/customizer/settings/blog.php:62
+msgid "Archives & Entries Layout"
+msgstr "פריסת רשומות וארכיונים"
+
+#: inc/customizer/settings/blog.php:48
+msgid "Blog Entries"
+msgstr "רשומות בלוג"
+
+#: inc/customizer/settings/blog.php:40 inc/customizer/settings/blog.php:715
+#: inc/helpers.php:1807
+msgid "Blog"
+msgstr "בלוג"
+
+#: inc/customizer/controls/typography/class-control-typography.php:84
+msgid "Google Fonts"
+msgstr "גופני גוגל"
+
+#: inc/customizer/controls/typography/class-control-typography.php:73
+msgid "Standard Fonts"
+msgstr "גופנים רגילים"
+
+#: inc/customizer/controls/typography/class-control-typography.php:63
+msgid "Custom Fonts"
+msgstr "גופנים בהתאמה אישית"
+
+#: inc/customizer/controls/typo/class-control-typo.php:255
+#: inc/customizer/controls/typo/class-control-typo.php:296
+#: inc/customizer/controls/typo/class-control-typo.php:319
+#: inc/customizer/controls/typo/class-control-typo.php:335
+#: inc/customizer/controls/typography/class-control-typography.php:57
+#: inc/customizer/settings/blog.php:775 inc/customizer/settings/blog.php:805
+#: inc/customizer/settings/blog.php:828 inc/customizer/settings/blog.php:853
+#: inc/customizer/settings/general.php:184
+#: inc/customizer/settings/general.php:214
+#: inc/customizer/settings/general.php:237
+#: inc/customizer/settings/general.php:262
+#: inc/customizer/settings/general.php:916
+#: inc/customizer/settings/general.php:978
+#: inc/customizer/settings/general.php:1008
+#: inc/customizer/settings/general.php:1031
+#: inc/customizer/settings/general.php:1056
+#: inc/customizer/settings/general.php:2222
+#: inc/customizer/settings/header.php:1925
+#: inc/customizer/settings/header.php:1954
+#: inc/customizer/settings/header.php:1976
+#: inc/customizer/settings/header.php:2000
+#: inc/customizer/settings/typography.php:385
+#: inc/customizer/settings/typography.php:418
+#: inc/customizer/settings/typography.php:445
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: inc/customizer/controls/radio-image/class-control-radio-image.php:111
+msgid "100% Full Width"
+msgstr "רוחב מלא 100%"
+
+#: inc/customizer/controls/radio-image/class-control-radio-image.php:110
+msgid "Full Width"
+msgstr "רוחב מלא"
+
+#: functions.php:544
+#: inc/customizer/controls/radio-image/class-control-radio-image.php:109
+msgid "Left Sidebar"
+msgstr "סרגל צדדי שמאלי"
+
+#: functions.php:533
+#: inc/customizer/controls/radio-image/class-control-radio-image.php:108
+msgid "Right Sidebar"
+msgstr "סרגל צדדי ימני"
+
+#: inc/customizer/controls/dropdown-pages/class-control-dropdown-pages.php:61
+#: inc/customizer/customizer-helpers.php:45
+msgid "Select"
+msgstr "בחירה"
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:193
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:197
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:201
+#: inc/customizer/settings/blog.php:299 inc/customizer/settings/blog.php:751
+#: inc/customizer/settings/general.php:954
+#: inc/customizer/settings/general.php:1531
+#: inc/customizer/settings/header.php:1065
+#: inc/customizer/settings/header.php:1528
+#: inc/customizer/settings/header.php:1549
+#: inc/customizer/settings/header.php:2225
+#: inc/customizer/settings/header.php:3557
+#: inc/customizer/settings/woocommerce.php:1081
+msgid "Left"
+msgstr "שמאל"
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:192
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:196
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:200
+#: inc/customizer/settings/blog.php:322
+msgid "Bottom"
+msgstr "תחתון"
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:191
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:195
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:199
+#: inc/customizer/settings/blog.php:300 inc/customizer/settings/blog.php:753
+#: inc/customizer/settings/general.php:956
+#: inc/customizer/settings/general.php:1529
+#: inc/customizer/settings/header.php:1067
+#: inc/customizer/settings/header.php:1529
+#: inc/customizer/settings/header.php:1551
+#: inc/customizer/settings/header.php:2227
+#: inc/customizer/settings/header.php:3558
+#: inc/customizer/settings/woocommerce.php:1083
+msgid "Right"
+msgstr "ימין"
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:190
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:194
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:198
+#: inc/customizer/settings/blog.php:320
+msgid "Top"
+msgstr "עליון"
+
+#: inc/customizer/controls/dimensions/class-control-dimensions.php:65
+msgid "Link values together"
+msgstr "קיבוץ ערכים יחד"
+
+#: inc/breadcrumbs.php:797
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumbs.php:769 inc/breadcrumbs.php:1198
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumbs.php:768 inc/breadcrumbs.php:824 inc/breadcrumbs.php:1194
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumbs.php:767 inc/breadcrumbs.php:796 inc/breadcrumbs.php:823
+#: inc/breadcrumbs.php:850 inc/breadcrumbs.php:1190
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumbs.php:751
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumbs.php:734
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumbs.php:717
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "G:i"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:279
+msgid "Week %s"
+msgstr "שבוע %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:277
+msgid "Minute %s"
+msgstr "דקה %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:275
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumbs.php:273
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "תוצאות חיפוש עבור &#8220;%s&#8221;"
+
+#: inc/breadcrumbs.php:271 inc/customizer/settings/woocommerce.php:575
+msgid "Archives"
+msgstr "ארכיונים"
+
+#: inc/breadcrumbs.php:270
+msgid "404 Not Found"
+msgstr "404 לא נמצא"
+
+#: inc/breadcrumbs.php:269
+msgid "Home"
+msgstr "דף הבית"
+
+#: inc/breadcrumbs.php:268
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "פירורי לחם"
+
+#: functions.php:603
+msgid "Widgets in this area are used in the fourth footer region."
+msgstr "וידג׳טים באיזור זה עושים שימוש באיזור תחתית האתר הרביעי."
+
+#: functions.php:601
+msgid "Footer 4"
+msgstr "איזור תחתית אתר 4"
+
+#: functions.php:592
+msgid "Widgets in this area are used in the third footer region."
+msgstr "וידג׳טים באיזור זה עושים שימוש באיזור תחתית האתר השלישי."
+
+#: functions.php:590
+msgid "Footer 3"
+msgstr "איזור תחתית אתר 3"
+
+#: functions.php:581
+msgid "Widgets in this area are used in the second footer region."
+msgstr "וידג׳טים באיזור זה עושים שימוש באיזור תחתית האתר השני."
+
+#: functions.php:579
+msgid "Footer 2"
+msgstr "איזור תחתית אתר 2"
+
+#: functions.php:570
+msgid "Widgets in this area are used in the first footer region."
+msgstr "וידג׳טים באיזור זה עושים שימוש באיזור תחתית האתר הראשון."
+
+#: functions.php:568
+msgid "Footer 1"
+msgstr "איזור תחתית אתר 1"
+
+#: functions.php:558
+msgid "Widgets in this area are used in the search result page."
+msgstr "וידג׳טים באיזור זה עושים שימוש בעמוד תוצאות החיפוש."
+
+#: functions.php:556
+msgid "Search Results Sidebar"
+msgstr "סרגל צדדי של עמוד תוצאות החיפוש"
+
+#: functions.php:546
+msgid "Widgets in this area are used in the left sidebar region."
+msgstr "ווידג׳טים באיזור זה עושים שימוש באיזור הסרגל הצדדי השמאלי."
+
+#: inc/customizer/settings/header.php:3421
+#: inc/customizer/settings/sidebar.php:40 inc/third/class-beaver-themer.php:136
+msgid "Sidebar"
+msgstr "סרגל צדדי"
+
+#: functions.php:260
+msgid "Mobile (optional)"
+msgstr "מובייל (אופציונלי)"
+
+#: functions.php:259 inc/third/class-beaver-themer.php:145
+msgid "Footer"
+msgstr "תחתית אתר"
+
+#: functions.php:258
+msgid "Main"
+msgstr "ראשי"
+
+#: functions.php:257 inc/customizer/settings/topbar.php:40
+#: inc/customizer/settings/typography.php:109
+#: inc/third/class-beaver-themer.php:100
+msgid "Top Bar"
+msgstr "בר עליון"
+
+#: comments.php:99
+msgid "Post Comment"
+msgstr "פרסום תגובה"
+
+#: comments.php:97
+msgid "Your Comment Here..."
+msgstr "התגובה שלך כאן..."
+
+#: comments.php:94
+msgid "Log out &raquo;"
+msgstr "ניתוק &laquo;"
+
+#: comments.php:94
+msgid "Log out of this account"
+msgstr "ניתוק מהחשבון הזה"
+
+#: comments.php:94
+msgid "Logged in as"
+msgstr "מחובר/ת בתור"
+
+#: comments.php:93
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr "יש להיות %1$sמחובר%2$s כדי לפרסם תגובה."
+
+#: inc/helpers.php:2889
+msgid "Website"
+msgstr "אתר"
+
+#: inc/helpers.php:2887
+msgid "Email (required)"
+msgstr "אימייל (נדרש)"
+
+#: inc/helpers.php:2885
+msgid "Name (required)"
+msgstr "שם (נדרש)"
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr "התגובות נעולות."
+
+#: comments.php:68 comments.php:76
+msgid "Next"
+msgstr "הבא"
+
+#: comments.php:67 comments.php:75
+msgid "Previous"
+msgstr "הקודם"
+
+#: comments.php:44
+msgid "This Post Has %s Comments"
+msgstr "לפוסט הזה יש  %s תגובות"
+
+#: comments.php:42
+msgid "This Post Has One Comment"
+msgstr "לפוסט הזה יש תגובה אחת"
+
+#: 404.php:103
+msgid "Back To Homepage"
+msgstr "חזרה לדף הבית"
+
+#: 404.php:101
+msgid "Perhaps you can try a new searching."
+msgstr "אולי כדאי לנסות חיפוש חדש."
+
+#: 404.php:101
+msgid "We are sorry. But the page you are looking for is not available."
+msgstr "סליחה, אבל העמוד המבוקש לא נמצא פה."
+
+#: 404.php:100
+msgid "This page could not be found!"
+msgstr "העמוד לא נמצא."
+
+#. Author URI of the plugin/theme
+msgid "https://oceanwp.org/about-me/"
+msgstr "https://oceanwp.org/about-me/"
+
+#. Author of the plugin/theme
+msgid "Nick"
+msgstr "ניק"
+
+#. Theme URI of the plugin/theme
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
